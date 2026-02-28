@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Ensure no code artifacts sneak in
+node_modules/
+.next/
+.vercel/
+*.env
+*.env.*

@@ -1,0 +1,1742 @@
+[
+  {
+    "session_id": "b2f0a353-7f59-4e88-88e2-266783664b55",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-Side-Brands\\b2f0a353-7f59-4e88-88e2-266783664b55.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\Side-Brands",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "578a7983",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-Side-Brands\\agent-578a7983.jsonl"
+  },
+  {
+    "session_id": "b2f0a353-7f59-4e88-88e2-266783664b55",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-Side-Brands\\b2f0a353-7f59-4e88-88e2-266783664b55.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\Side-Brands",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "256605c9",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-Side-Brands\\agent-256605c9.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a084873",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a084873.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a825af9",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a825af9.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a2355b1",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a2355b1.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "af64f91",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-af64f91.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ab1c54e",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ab1c54e.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad4ae84",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad4ae84.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a707c18",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a707c18.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a45f0a1",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a45f0a1.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "plan",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ac64aab",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ac64aab.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "plan",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad40dd0",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad40dd0.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "plan",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aae81ea",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aae81ea.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a03c6f6",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a03c6f6.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ac82d67",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ac82d67.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aeacabb",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aeacabb.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a7045f6",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a7045f6.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a6cff19",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a6cff19.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aee11a7",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aee11a7.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "afce37e",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-afce37e.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "add950c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-add950c.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a888543",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a888543.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a8c98f8",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a8c98f8.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a75598a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a75598a.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a07436d",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a07436d.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a8021e7",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a8021e7.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a815147",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a815147.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a4b0688",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a4b0688.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a1c61e4",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a1c61e4.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a63e2c1",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a63e2c1.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a7ec0d8",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a7ec0d8.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "acfe15f",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-acfe15f.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "acbe21a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-acbe21a.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a81671f",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a81671f.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a0c316d",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a0c316d.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae0894f",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae0894f.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a788001",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a788001.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a4d2f04",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a4d2f04.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a50ee71",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a50ee71.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "abdae9b",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-abdae9b.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a541339",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a541339.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a13cef4",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a13cef4.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "acb1f6a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-acb1f6a.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae79f78",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae79f78.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a5e8ed0",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a5e8ed0.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a6dfb10",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a6dfb10.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae2d2bd",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae2d2bd.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a945419",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a945419.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a73c550",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a73c550.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a185443",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a185443.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a426cb5",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a426cb5.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a86fc21",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a86fc21.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a3a1600",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a3a1600.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a62c089",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a62c089.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a10d9fa",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a10d9fa.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a01f625",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a01f625.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a62f5df",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a62f5df.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a94242c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a94242c.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a5febb3",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a5febb3.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "afa7404",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-afa7404.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a0eaa82",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a0eaa82.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a61ff33",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a61ff33.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a212edf",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a212edf.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a95b8ce",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a95b8ce.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a6ab152",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a6ab152.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a1e987c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a1e987c.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a2b6a70",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a2b6a70.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a121a60",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a121a60.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a2d6230",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a2d6230.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad34f4e",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad34f4e.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a41e856",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a41e856.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae5b963",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae5b963.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a595a48",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a595a48.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a06ac11",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a06ac11.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aebfaf5",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aebfaf5.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a48133d",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a48133d.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a6cff67",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a6cff67.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "abedcd0",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-abedcd0.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae9ccc9",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae9ccc9.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad02d0f",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad02d0f.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aadc48e",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aadc48e.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a517b88",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a517b88.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad05407",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad05407.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "add4ca4",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-add4ca4.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a9c0446",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a9c0446.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a2603f1",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a2603f1.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ab61cd2",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ab61cd2.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "adfcae0",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-adfcae0.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad3298e",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad3298e.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a142192",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a142192.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aa67a3c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aa67a3c.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a0c5460",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a0c5460.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "adc3e38",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-adc3e38.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "af7b334",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-af7b334.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a726453",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a726453.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a623689",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a623689.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a6ac22c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a6ac22c.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a75a041",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a75a041.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad0eaaf",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad0eaaf.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a571cbc",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a571cbc.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a7384e5",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a7384e5.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a1b46ad",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a1b46ad.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a0e4770",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a0e4770.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "afc2d29",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-afc2d29.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a85fbd3",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a85fbd3.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a33aabf",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a33aabf.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "af23c15",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-af23c15.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae88fc2",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae88fc2.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ab758c1",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ab758c1.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a649be9",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a649be9.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a389841",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a389841.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a76ad8e",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a76ad8e.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a28d057",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a28d057.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a0a8d15",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a0a8d15.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a5bac10",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a5bac10.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a2e762f",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a2e762f.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ab0ddbf",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ab0ddbf.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "addb554",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-addb554.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aa7d91a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aa7d91a.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "afaa934",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-afaa934.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a6cad2a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a6cad2a.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a7b4b83",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a7b4b83.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aaec362",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aaec362.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ac055ff",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ac055ff.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "acbd1df",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-acbd1df.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a1fdbaf",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a1fdbaf.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a1f83d9",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a1f83d9.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a20f35c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a20f35c.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aa94e60",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aa94e60.jsonl"
+  },
+  {
+    "session_id": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\0a01642c-c844-4f0a-b85e-841ad21236f5.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aba622c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aba622c.jsonl"
+  },
+  {
+    "session_id": "a7d51d2e-adc2-4b30-8119-85b71c7bd53f",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a7d51d2e-adc2-4b30-8119-85b71c7bd53f.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "abb09cd",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-abb09cd.jsonl"
+  },
+  {
+    "session_id": "a7d51d2e-adc2-4b30-8119-85b71c7bd53f",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a7d51d2e-adc2-4b30-8119-85b71c7bd53f.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a32a860",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a32a860.jsonl"
+  },
+  {
+    "session_id": "a7d51d2e-adc2-4b30-8119-85b71c7bd53f",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a7d51d2e-adc2-4b30-8119-85b71c7bd53f.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aec9477",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aec9477.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ab112d3",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ab112d3.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a007af2",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a007af2.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a494c2b",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a494c2b.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a4c27ba",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a4c27ba.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a9346e2",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a9346e2.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a21a33a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a21a33a.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "abeda8a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-abeda8a.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "afa1a28",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-afa1a28.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aabd347",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-aabd347.jsonl"
+  },
+  {
+    "session_id": "27e8c735-568c-4602-8815-41523f831447",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\27e8c735-568c-4602-8815-41523f831447.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a3708f6",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a3708f6.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a4664da",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a4664da.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "acf561b",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-acf561b.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad74050",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ad74050.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a2190e4",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a2190e4.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "af07c19",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-af07c19.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a716bdb",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a716bdb.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a4845b4",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a4845b4.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ab520dc",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ab520dc.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae7f0ae",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae7f0ae.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "afaecbd",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-afaecbd.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ac2be06",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ac2be06.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a694c49",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a694c49.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "af04dce",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-af04dce.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a362362",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-a362362.jsonl"
+  },
+  {
+    "session_id": "a5210c6a-7936-40b9-add7-cabc800a7f5b",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\a5210c6a-7936-40b9-add7-cabc800a7f5b.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae756ba",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\agent-ae756ba.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a5744c2",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-a5744c2.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aa46d93",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-aa46d93.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ae9cd03",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-ae9cd03.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "af9510c",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-af9510c.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aac990a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-aac990a.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a9da932",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-a9da932.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a5b72c3",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-a5b72c3.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a02a779",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-a02a779.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a14ab72",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-a14ab72.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aac0ed6",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-aac0ed6.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ac03c5b",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-ac03c5b.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "ad7735f",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-ad7735f.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "acd947a",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-acd947a.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "aa02e15",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-aa02e15.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a6be61d",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-a6be61d.jsonl"
+  },
+  {
+    "session_id": "28b8cd42-7dcd-4b2c-a44c-bef885e7702a",
+    "transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a.jsonl",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "acfe0b5",
+    "agent_transcript_path": "C:\\Users\\Oliver Productions\\.claude\\projects\\C--Users-Oliver-Productions-Desktop-1-SMG-BUSINESS-1b---Side-Brands-Dev\\28b8cd42-7dcd-4b2c-a44c-bef885e7702a\\subagents\\agent-acfe0b5.jsonl"
+  }
+]

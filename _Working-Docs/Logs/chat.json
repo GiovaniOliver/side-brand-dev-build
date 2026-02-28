@@ -1,0 +1,86 @@
+[
+  {
+    "type": "file-history-snapshot",
+    "messageId": "7fbd810d-1c32-4f0e-8625-aa8caf87471d",
+    "snapshot": {
+      "messageId": "7fbd810d-1c32-4f0e-8625-aa8caf87471d",
+      "trackedFileBackups": {},
+      "timestamp": "2025-12-13T02:32:10.159Z"
+    },
+    "isSnapshotUpdate": false
+  },
+  {
+    "parentUuid": null,
+    "isSidechain": false,
+    "userType": "external",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "sessionId": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "version": "2.0.69",
+    "gitBranch": "master",
+    "type": "user",
+    "message": {
+      "role": "user",
+      "content": "OK let's use the skill Previous Conversation to see the previous chat related to the AI Content Studio Pro brand and let's continue working on the website that's what we were focusing on at the moment Also check the linear MCP tool for the backlog of the To Do List up tasks be working on related to this website "
+    },
+    "uuid": "7fbd810d-1c32-4f0e-8625-aa8caf87471d",
+    "timestamp": "2025-12-13T02:32:09.743Z",
+    "thinkingMetadata": {
+      "level": "high",
+      "disabled": false,
+      "triggers": []
+    },
+    "todos": []
+  },
+  {
+    "type": "queue-operation",
+    "operation": "enqueue",
+    "timestamp": "2025-12-13T02:32:12.104Z",
+    "sessionId": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "content": "/rate-limit-options"
+  },
+  {
+    "parentUuid": "7fbd810d-1c32-4f0e-8625-aa8caf87471d",
+    "isSidechain": false,
+    "userType": "external",
+    "cwd": "C:\\Users\\Oliver Productions\\Desktop\\1.SMG-BUSINESS\\1b.) Side-Brands Dev",
+    "sessionId": "0a01642c-c844-4f0a-b85e-841ad21236f5",
+    "version": "2.0.69",
+    "gitBranch": "master",
+    "type": "assistant",
+    "uuid": "4d167610-8805-4d91-91b6-a8589aecb858",
+    "timestamp": "2025-12-13T02:32:12.088Z",
+    "message": {
+      "id": "1c0a37f0-3c26-42c5-90fb-55c9e4ae9176",
+      "container": null,
+      "model": "<synthetic>",
+      "role": "assistant",
+      "stop_reason": "stop_sequence",
+      "stop_sequence": "",
+      "type": "message",
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "server_tool_use": {
+          "web_search_requests": 0,
+          "web_fetch_requests": 0
+        },
+        "service_tier": null,
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        }
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Limit reached \u00c2\u00b7 resets Dec 15, 9pm (America/Chicago) \u00c2\u00b7 /upgrade to Max 20x or turn on /extra-usage"
+        }
+      ],
+      "context_management": null
+    },
+    "error": "rate_limit",
+    "isApiErrorMessage": true
+  }
+]
