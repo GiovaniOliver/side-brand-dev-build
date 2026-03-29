@@ -26,7 +26,7 @@
 | 7 | Brain Bender | Educational gaming |
 | 8 | Bruh WTF | Viral entertainment |
 | 9 | Digital Nomad Gear | Uses tailwind.config.js (minor) |
-| 10 | DolphinWine | Premium beverage |
+| 10 | Azure Tide Wine CO | Premium beverage |
 | 11 | Hood Fat Albert (Rapper-Singer) | Music artist brand |
 | 12 | Is This Yo BF-GF | Relationship content |
 | 13 | Mindful Gaming Zone | Wellness gaming |

@@ -1,11 +1,11 @@
-# 🐬🍷 DolphinWine - Startup Brand SOP
+# 🐬🍷 Azure Tide Wine CO - Startup Brand SOP
 *Standard Operating Procedures for Premium Wine Experience Excellence*
 
 ---
 
 ## 📋 **OVERVIEW**
 
-This comprehensive Standard Operating Procedure (SOP) document outlines the systematic processes, workflows, and best practices for operating **DolphinWine** as a premium wine lifestyle brand. These procedures ensure consistent quality, exceptional customer experiences, and scalable operations that maintain sophistication while remaining accessible.
+This comprehensive Standard Operating Procedure (SOP) document outlines the systematic processes, workflows, and best practices for operating **Azure Tide Wine CO** as a premium wine lifestyle brand. These procedures ensure consistent quality, exceptional customer experiences, and scalable operations that maintain sophistication while remaining accessible.
 
 ---
 
@@ -24,7 +24,7 @@ This comprehensive Standard Operating Procedure (SOP) document outlines the syst
    - Set initial wine selection parameters based on experience level and budget
 
 2. **Educational Foundation**
-   - Provide access to DolphinWine University learning portal
+   - Provide access to Azure Tide Wine CO University learning portal
    - Share beginner's guide to wine appreciation and tasting techniques
    - Send welcome wine kit with tasting glasses and educational materials
    - Introduce customer to online community and events calendar
@@ -46,7 +46,7 @@ This comprehensive Standard Operating Procedure (SOP) document outlines the syst
    - Schedule follow-up communication to gather feedback and refine preferences
 
 2. **Community Integration**
-   - Invite customer to private DolphinWine community groups and events
+   - Invite customer to private Azure Tide Wine CO community groups and events
    - Introduce to local wine events and exclusive member experiences
    - Connect with similar wine enthusiasts in customer's geographic area
    - Provide access to member-only content and exclusive wine releases
@@ -368,7 +368,7 @@ This comprehensive Standard Operating Procedure (SOP) document outlines the syst
 **Foundation Training (Week 1-2):**
 - **Wine Basics**: Grape varieties, regions, production methods, and styles
 - **Tasting Techniques**: Professional wine evaluation and description methods
-- **Brand Standards**: DolphinWine quality standards and selection criteria
+- **Brand Standards**: Azure Tide Wine CO quality standards and selection criteria
 - **Customer Profiles**: Understanding different customer segments and preferences
 - **Food Pairing**: Basic wine and food pairing principles and recommendations
 
@@ -412,4 +412,4 @@ This comprehensive Standard Operating Procedure (SOP) document outlines the syst
 
 ---
 
-*Standard Operating Procedures for DolphinWine - Where Sophistication Meets Accessibility Through Operational Excellence*
+*Standard Operating Procedures for Azure Tide Wine CO - Where Sophistication Meets Accessibility Through Operational Excellence*

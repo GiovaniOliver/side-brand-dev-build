@@ -21,7 +21,7 @@ A deep-dive audit into every brand's marketing docs reveals a **systemic alignme
 | WELL ALIGNED | AI Content Studio Pro, PAUSEWELL, Digital Nomad Gear |
 | MODERATE ISSUES | Smart Pet Tech, Sustainable Beauty Box, Mindful Gaming Zone |
 | SIGNIFICANT ISSUES | Brain Bender, Rappers Looking for Beats, AI Record Label, Now Hiring STL, The Work Out Six Pack Stop |
-| SEVERE IDENTITY CRISIS | 420 Blunt Force Trauma, DolphinWine, Bruh WTF, Black Group Admin Network, Is This Yo BF-GF, Hood Fat Albert, Now Hired US |
+| SEVERE IDENTITY CRISIS | 420 Blunt Force Trauma, Azure Tide Wine CO, Bruh WTF, Black Group Admin Network, Is This Yo BF-GF, Hood Fat Albert, Now Hired US |
 | NOT DEVELOPED | Defi Baddies (no template-format docs), Structured Debate Rooms (empty) |
 
 ---
@@ -283,16 +283,16 @@ A deep-dive audit into every brand's marketing docs reveals a **systemic alignme
 
 ---
 
-### 10. DOLPHINWINE - SEVERE IDENTITY CRISIS
+### 10. AZURE TIDE WINE CO - SEVERE IDENTITY CRISIS
 
 **Alignment Score: 2/10** (WORST IN PORTFOLIO)
 
 **Source Files:**
-- [Brand Foundation](../../../DolphinWine/Brand%20Foundation%20(Mission%20Statement,%20Vision%20Statement,%20Tagline).md)
-- [Brand Info](../../../DolphinWine/Brand%20Info.md)
-- [Marketing Plan](../../../DolphinWine/Startup_Marketing_Plan_System.md)
-- [Affiliate Monetization Plan](../../../DolphinWine/Affiliate_Monetization_Plan.md)
-- [Complete Brand Template](../../../DolphinWine/Complete%20Brand%20Template.md)
+- [Brand Foundation](../../brands/Azure%20Tide%20Wine%20CO/Brand%20Foundation%20%28Mission%20Statement%2C%20Vision%20Statement%2C%20Tagline%29.md)
+- [Brand Info](../../brands/Azure%20Tide%20Wine%20CO/Brand%20Info.md)
+- [Marketing Plan](../../brands/Azure%20Tide%20Wine%20CO/Startup_Marketing_Plan_System.md)
+- [Affiliate Monetization Plan](../../brands/Azure%20Tide%20Wine%20CO/Affiliate_Monetization_Plan.md)
+- [Complete Brand Template](../../brands/Azure%20Tide%20Wine%20CO/Complete%20Brand%20Template.md)
 
 **Target Audience (4 DIFFERENT DEFINITIONS):**
 
@@ -630,7 +630,7 @@ These were **never reconciled** into a single source of truth. Each document was
 
 1. **Designate one canonical document per brand** as the single source of truth (recommend the Brand Info + Affiliate Monetization Plan as the realistic foundation)
 2. **Reconcile the Complete Brand Template** to match -- or clearly label it as "Phase 2/3 Scale Vision" separate from Phase 1 launch plan
-3. **Fix the 6 identity crisis brands** (420 BFT, DolphinWine, Is This Yo BF-GF, Now Hired US, Hood Fat Albert, Black Group Admin) -- each needs a decision on which business model to pursue
+3. **Fix the 6 identity crisis brands** (420 BFT, Azure Tide Wine CO, Is This Yo BF-GF, Now Hired US, Hood Fat Albert, Black Group Admin) -- each needs a decision on which business model to pursue
 4. **Remove off-brand ClickBank products** from Now Hired US (adult content) and Work Out Six Pack Stop (dental/prostate supplements)
 5. **Complete Hood Fat Albert Brand Foundation** (currently empty placeholders)
 6. **Migrate Defi Baddies** to standard template format

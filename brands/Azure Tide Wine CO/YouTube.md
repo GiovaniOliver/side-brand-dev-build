@@ -1,11 +1,11 @@
-# 🐬🍷 DolphinWine - YouTube Strategy
+# 🐬🍷 Azure Tide Wine CO - YouTube Strategy
 *Premium Wine Education Through Long-Form Video Content*
 
 ---
 
 ## 🎥 **YOUTUBE MARKETING OVERVIEW**
 
-**DolphinWine** leverages YouTube as the primary platform for comprehensive wine education, establishing long-form thought leadership, and building an extensive library of wine knowledge. Our YouTube strategy focuses on creating the definitive wine education resource that positions DolphinWine as the trusted wine authority.
+**Azure Tide Wine CO** leverages YouTube as the primary platform for comprehensive wine education, establishing long-form thought leadership, and building an extensive library of wine knowledge. Our YouTube strategy focuses on creating the definitive wine education resource that positions Azure Tide Wine CO as the trusted wine authority.
 
 ### **Platform Objectives**
 - 🎯 **Wine Education Authority**: Become the premier YouTube channel for wine education
@@ -98,7 +98,7 @@
 - **Subscriber Growth**: Target 25,000+ wine education focused subscribers
 - **Watch Time**: 20,000+ hours monthly educational content consumption
 - **Engagement Rate**: 8%+ engagement on wine education content
-- **Conversion Rate**: 15% of viewers visit DolphinWine website
+- **Conversion Rate**: 15% of viewers visit Azure Tide Wine CO website
 - **Wine Club Conversion**: 5% of engaged viewers join wine club
 
 ### **Monetization Strategy**
@@ -122,4 +122,4 @@
 
 ---
 
-*YouTube Strategy for DolphinWine - Comprehensive Wine Education Authority Through Premium Video Content*
+*YouTube Strategy for Azure Tide Wine CO - Comprehensive Wine Education Authority Through Premium Video Content*

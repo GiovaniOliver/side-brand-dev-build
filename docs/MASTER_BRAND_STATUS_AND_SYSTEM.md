@@ -58,7 +58,7 @@ The following brands have **ALL required planning documents**:
    - Files: 20/14 docs (BONUS files included!)
    - Revenue Potential: $100K-500K/year (viral potential)
 
-8. **DolphinWine** ✅
+8. **Azure Tide Wine CO** ✅
    - Premium beverage brand
    - Files: 12/14 docs
    - Revenue Potential: $50K-120K/year
@@ -431,7 +431,7 @@ All the progress/status report files in `1. Brand System Template & Tech Stack T
 - Fitness: $80K-200K (Work Out Six Pack Stop)
 - Gaming/Education: $60K-180K (Brain Bender)
 - Relationships: $60K-180K (Is This Yo BF-GF)
-- Wine/Beverage: $50K-120K (DolphinWine)
+- Wine/Beverage: $50K-120K (Azure Tide Wine CO)
 - Music/AI: $50K-150K (AI Artist)
 - Local Jobs: $40K-100K (Now Hiring St. Louis)
 

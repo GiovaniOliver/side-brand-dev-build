@@ -1,4 +1,4 @@
-# 🐬🍷 DolphinWine - Brand Foundation
+# 🐬🍷 Azure Tide Wine CO - Brand Foundation
 *Premium Wine Experiences That Bridge Elegance and Accessibility*
 
 ---
@@ -231,7 +231,7 @@ We exist to democratize wine culture by making premium wine experiences accessib
 - **vs. Local Wine Shops**: Consistent experience with modern convenience and education
 
 ### **Brand Promise**
-**"When you choose DolphinWine, you're not just buying wine—you're joining a community of wine lovers where every bottle comes with a story, every experience builds confidence, and every moment becomes more memorable."**
+**"When you choose Azure Tide Wine CO, you're not just buying wine—you're joining a community of wine lovers where every bottle comes with a story, every experience builds confidence, and every moment becomes more memorable."**
 
 ---
 

@@ -1,4 +1,4 @@
-# Technical Architecture - DolphinWine
+# Technical Architecture - Azure Tide Wine CO
 
 ## System Overview
 Luxury wine e-commerce platform with ocean conservation integration, featuring wine recommendations, subscription boxes, virtual tastings, marine life adoption program, and blockchain-verified sustainability tracking.
@@ -8,7 +8,7 @@ Luxury wine e-commerce platform with ocean conservation integration, featuring w
 ### Frontend
 **Framework**: Next.js 14 with TypeScript
 ```typescript
-// DolphinWine Platform Configuration
+// Azure Tide Wine CO Platform Configuration
 const PlatformConfig = {
   framework: 'Next.js 14',
   language: 'TypeScript',
@@ -405,7 +405,7 @@ contract OceanConservation {
 ### Marine Life Tracking API
 ```typescript
 class MarineTracker {
-  async trackAdoptedDolphin(adoptionId: string): Promise<TrackingData> {
+  async trackMarinePartner(adoptionId: string): Promise<TrackingData> {
     // Connect to marine research APIs
     const partners = [
       'OceanConservancy',
@@ -530,19 +530,19 @@ POST /api/tastings/:id/join
 version: '3.8'
 services:
   web:
-    image: dolphinwine/web:latest
+    image: azure-tide-wine-co/web:latest
     environment:
       - NEXT_PUBLIC_STRIPE_KEY=${STRIPE_KEY}
       - NEXT_PUBLIC_AGORA_APP_ID=${AGORA_APP_ID}
   
   api:
-    image: dolphinwine/api:latest
+    image: azure-tide-wine-co/api:latest
     environment:
       - DATABASE_URL=${DATABASE_URL}
       - STRIPE_SECRET=${STRIPE_SECRET}
   
   recommendation:
-    image: dolphinwine/ml:latest
+    image: azure-tide-wine-co/ml:latest
     deploy:
       resources:
         limits:
@@ -572,4 +572,4 @@ services:
 
 ---
 
-*DolphinWine's architecture combines luxury e-commerce with meaningful ocean conservation impact tracking and virtual wine experiences.*
+*Azure Tide Wine CO's architecture combines luxury e-commerce with meaningful ocean conservation impact tracking and virtual wine experiences.*

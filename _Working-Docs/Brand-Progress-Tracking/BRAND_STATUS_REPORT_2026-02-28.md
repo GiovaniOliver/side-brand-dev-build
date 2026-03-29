@@ -10,7 +10,7 @@
 
 | Tier | Count | Brands |
 |------|-------|--------|
-| EXCELLENT (90%+) | 8 | PAUSEWELL, Bruh WTF, 420 BFT, DolphinWine, Now Hired US, AI Content Studio Pro, Digital Nomad Gear, Rappers Looking for Beats |
+| EXCELLENT (90%+) | 8 | PAUSEWELL, Bruh WTF, 420 BFT, Azure Tide Wine CO, Now Hired US, AI Content Studio Pro, Digital Nomad Gear, Rappers Looking for Beats |
 | GOOD (80-89%) | 9 | Mindful Gaming Zone, Black Group Admin Network, The Work Out Six Pack Stop, AI Artist, Brain Bender, Hood Fat Albert, Is This Yo BF-GF, AI Record Label, Now Hiring St. Louis |
 | MODERATE (70-79%) | 2 | Sustainable Beauty Box, Smart Pet Tech |
 | CRITICAL GAPS | 2 | Defi Baddies (56%), Structured Debate Rooms (25%) |
@@ -509,7 +509,7 @@
 | Bruh WTF | YES | NO | - |
 | Defi Baddies | NO | NO | - |
 | Digital Nomad Gear | YES | NO | digitalnomadgear.com |
-| DolphinWine | YES | NO | - |
+| Azure Tide Wine CO | YES | NO | - |
 | Hood Fat Albert | YES | NO | - |
 | Is This Yo BF-GF | YES | NO | - |
 | Mindful Gaming Zone | YES | NO | - |
@@ -533,7 +533,7 @@
 | 1 | PAUSEWELL | 95% | Add brand-profile.json, full email sequences |
 | 2 | Bruh WTF | 94% | Add brand-profile.json |
 | 3 | 420 Blunt Force Trauma | 92% | Add brand-profile.json, CLAUDE.md |
-| 4 | DolphinWine | 92% | Add brand-profile.json, email sequences |
+| 4 | Azure Tide Wine CO | 92% | Add brand-profile.json, email sequences |
 | 5 | Now Hired US | 92% | Add brand-profile.json, visual identity, blog content |
 | 6 | AI Content Studio Pro | 91% | Add brand-profile.json |
 | 7 | Digital Nomad Gear | 91% | Add brand-profile.json, visual style guide |
@@ -564,7 +564,7 @@
 ### SHORT TERM (Weeks 2-4)
 4. Add CLAUDE.md to all brands missing it (17 brands)
 5. Create visual identity guides for Smart Pet Tech, Now Hiring STL, Mindful Gaming, Now Hired US, Work Out Six Pack Stop
-6. Write email marketing sequences for DolphinWine, Black Group Admin, Is This Yo BF-GF, Brain Bender
+6. Write email marketing sequences for Azure Tide Wine CO, Black Group Admin, Is This Yo BF-GF, Brain Bender
 7. Customize SOP/Marketing templates for Smart Pet Tech and Sustainable Beauty Box
 
 ### MEDIUM TERM (Month 2)

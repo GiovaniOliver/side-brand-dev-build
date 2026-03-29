@@ -1,4 +1,4 @@
-# Affiliate Monetization Plan - DolphinWine
+# Affiliate Monetization Plan - Azure Tide Wine CO
 
 ## Revenue Model Overview
 Luxury wine e-commerce platform monetizing through direct wine sales, subscription boxes, affiliate partnerships with wine accessories and ocean conservation organizations, virtual tasting events, and marine adoption programs.
@@ -23,7 +23,7 @@ Luxury wine e-commerce platform monetizing through direct wine sales, subscripti
 **Reef Protector** ($149/month)
 - 4 premium bottles
 - Virtual tasting access
-- Marine adoption included
+- Concierge pairing support
 - 15% to conservation
 
 **Blue Planet Collector** ($299/month)
@@ -154,7 +154,7 @@ Luxury wine e-commerce platform monetizing through direct wine sales, subscripti
 ### 4. Marine Adoption Program (15% of Revenue)
 
 **Adoption Tiers**:
-**Dolphin Friend** ($19.99/month)
+**Tide Circle** ($19.99/month)
 - Digital adoption certificate
 - Monthly updates
 - 100% to conservation
@@ -357,4 +357,4 @@ Luxury wine e-commerce platform monetizing through direct wine sales, subscripti
 
 ---
 
-*DolphinWine: Where every sip saves the sea. Luxury wine meets ocean conservation for conscious connoisseurs.*
+*Azure Tide Wine CO: Where every sip saves the sea. Luxury wine meets ocean conservation for conscious connoisseurs.*

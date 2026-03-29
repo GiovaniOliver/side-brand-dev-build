@@ -20,7 +20,7 @@
 | Black Group Admin Network | Fully built |
 | Brain Bender | Fully built |
 | Bruh WTF | Fully built |
-| DolphinWine | Fully built |
+| Azure Tide Wine CO | Fully built |
 | Is This Yo BF-GF | Fully built |
 | Now Hired US | Fully built |
 | Smart Pet Tech | Fully built |

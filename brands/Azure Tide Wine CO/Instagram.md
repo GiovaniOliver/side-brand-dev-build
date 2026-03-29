@@ -1,15 +1,15 @@
-# 🐬🍷 DolphinWine - Instagram Strategy
+# 🐬🍷 Azure Tide Wine CO - Instagram Strategy
 *Premium Wine Lifestyle Through Visual Storytelling*
 
 ---
 
 ## 📸 **INSTAGRAM MARKETING OVERVIEW**
 
-**DolphinWine** leverages Instagram to showcase the sophisticated yet accessible wine lifestyle through premium visual content, wine education, and community building. Our Instagram strategy focuses on aspirational wine content, behind-the-scenes authenticity, and educational storytelling that positions DolphinWine as the modern wine lifestyle brand.
+**Azure Tide Wine CO** leverages Instagram to showcase the sophisticated yet accessible wine lifestyle through premium visual content, wine education, and community building. Our Instagram strategy focuses on aspirational wine content, behind-the-scenes authenticity, and educational storytelling that positions Azure Tide Wine CO as the modern wine lifestyle brand.
 
 ### **Platform Objectives**
 - 🎯 **Visual Wine Education**: Teach wine appreciation through beautiful, engaging visual content
-- 🏆 **Premium Lifestyle Brand**: Establish DolphinWine as sophisticated yet approachable wine lifestyle
+- 🏆 **Premium Lifestyle Brand**: Establish Azure Tide Wine CO as sophisticated yet approachable wine lifestyle
 - 📱 **Community Engagement**: Build engaged community of 50,000+ wine enthusiasts
 - 💼 **Wine Club Growth**: Generate 100+ wine club sign-ups monthly through Instagram
 - 🎨 **Brand Aesthetics**: Create cohesive visual brand that embodies premium accessibility
@@ -139,10 +139,10 @@
 
 #### **#️⃣ Hashtag Categories & Implementation**
 **Branded Hashtags:**
-- **#DolphinWine** (Primary brand hashtag)
+- **#AzureTideWineCO** (Primary brand hashtag)
 - **#WineConfidenceJourney** (Educational transformation theme)
 - **#SophisticatedAccessible** (Brand positioning hashtag)
-- **#DolphinWineCommunity** (Community building hashtag)
+- **#AzureTideCircle** (Community building hashtag)
 - **#WineWisdomWednesday** (Educational content series)
 
 **Premium Wine Hashtags (High Volume):**
@@ -178,7 +178,7 @@
 #### **📸 UGC Campaigns & Challenges**
 **Monthly UGC Challenges:**
 - **#MyWineConfidenceJourney**: Members sharing wine education progress
-- **#DolphinWineUnboxing**: Wine club unboxing and presentation photos
+- **#AzureTideUnboxing**: Wine club unboxing and presentation photos
 - **#WineAndFoodPairing**: Community food and wine pairing creativity
 - **#SeasonalWineMoments**: Seasonal wine lifestyle photography
 - **#WineCountryDreams**: Aspirational wine travel and vineyard content
@@ -219,7 +219,7 @@
 - **Educational Value**: Wine education and confidence building benefits
 
 **Brand Awareness Campaigns:**
-- **Wine Education Authority**: Establishing DolphinWine as wine education leader
+- **Wine Education Authority**: Establishing Azure Tide Wine CO as wine education leader
 - **Premium Lifestyle**: Sophisticated yet accessible wine brand positioning
 - **Community Building**: Wine enthusiast community and connection opportunities
 - **Expert Credentials**: Sommelier team expertise and wine industry recognition
@@ -304,4 +304,4 @@
 
 ---
 
-*Comprehensive Instagram Marketing Strategy for DolphinWine - Premium Wine Lifestyle Through Sophisticated Visual Storytelling*
+*Comprehensive Instagram Marketing Strategy for Azure Tide Wine CO - Premium Wine Lifestyle Through Sophisticated Visual Storytelling*

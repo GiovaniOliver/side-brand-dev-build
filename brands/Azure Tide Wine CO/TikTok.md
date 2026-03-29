@@ -1,18 +1,18 @@
-# 🐬🍷 DolphinWine - TikTok Strategy
+# 🐬🍷 Azure Tide Wine CO - TikTok Strategy
 *Making Wine Accessible Through Engaging Short-Form Content*
 
 ---
 
 ## 🎵 **TIKTOK MARKETING OVERVIEW**
 
-**DolphinWine** uses TikTok to demystify wine culture for younger audiences, making wine education fun and accessible through creative short-form content. Our TikTok strategy focuses on breaking down wine intimidation barriers and attracting the next generation of wine enthusiasts.
+**Azure Tide Wine CO** uses TikTok to demystify wine culture for younger audiences, making wine education fun and accessible through creative short-form content. Our TikTok strategy focuses on breaking down wine intimidation barriers and attracting the next generation of wine enthusiasts.
 
 ### **Platform Objectives**
 - 🎯 **Democratize Wine Education**: Make wine knowledge accessible to all ages
 - 🏆 **Break Wine Intimidation**: Remove barriers to wine appreciation
 - 📚 **Fun Wine Learning**: Educational content that's entertaining and engaging
 - 🤝 **Younger Audience**: Connect with Gen Z and Millennial wine newcomers
-- 🚀 **Brand Awareness**: Introduce DolphinWine to emerging wine market
+- 🚀 **Brand Awareness**: Introduce Azure Tide Wine CO to emerging wine market
 
 ---
 
@@ -64,7 +64,7 @@
 - **Wine Education**: #WineEducation #WineTips #LearnWine
 - **Lifestyle**: #WineLifestyle #WineVibes #SophisticatedLife
 - **Educational**: #LearnOnTikTok #WineConfidence #WineBasics
-- **Branded**: #DolphinWine #AccessibleWine #WineForEveryone
+- **Branded**: #AzureTideWineCO #AccessibleWine #WineForEveryone
 
 ### **Growth Tactics**
 - **Trend Participation**: Adapting viral trends with wine education
@@ -75,4 +75,4 @@
 
 ---
 
-*TikTok Strategy for DolphinWine - Making Wine Culture Accessible and Fun for the Next Generation*
+*TikTok Strategy for Azure Tide Wine CO - Making Wine Culture Accessible and Fun for the Next Generation*

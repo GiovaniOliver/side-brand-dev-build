@@ -1,11 +1,11 @@
-# 🐬🍷 DolphinWine - Reddit Strategy
+# 🐬🍷 Azure Tide Wine CO - Reddit Strategy
 *Authentic Wine Expertise Through Community Engagement*
 
 ---
 
 ## 🔥 **REDDIT MARKETING OVERVIEW**
 
-**DolphinWine** leverages Reddit for authentic wine education and community engagement, providing genuine value to wine enthusiasts while subtly establishing credibility as the accessible wine authority. Our Reddit strategy focuses on helpful contributions rather than promotion.
+**Azure Tide Wine CO** leverages Reddit for authentic wine education and community engagement, providing genuine value to wine enthusiasts while subtly establishing credibility as the accessible wine authority. Our Reddit strategy focuses on helpful contributions rather than promotion.
 
 ### **Platform Objectives**
 - 🎯 **Authentic Value**: Provide genuine wine expertise and education
@@ -76,7 +76,7 @@
 ### **Engagement Philosophy**
 **Core Principles:**
 - **Education First**: Always prioritize helping and educating
-- **No Direct Promotion**: Never directly promote DolphinWine services
+- **No Direct Promotion**: Never directly promote Azure Tide Wine CO services
 - **Expert Insights**: Share professional sommelier knowledge
 - **Community Respect**: Follow all subreddit rules and culture
 - **Authentic Participation**: Genuine wine enthusiasm and expertise
@@ -164,7 +164,7 @@
 
 #### **💼 Business Impact Indicators**
 - **Brand Awareness**: Organic mentions of premium wine services
-- **Website Traffic**: Reddit-sourced visitors to DolphinWine resources
+- **Website Traffic**: Reddit-sourced visitors to Azure Tide Wine CO resources
 - **Wine Education**: Interest in wine education and confidence building
 - **Industry Recognition**: Recognition as wine industry thought leader
 - **Community Building**: Development of wine enthusiast relationships
@@ -235,4 +235,4 @@
 
 ---
 
-*Reddit Strategy for DolphinWine - Building Wine Authority Through Authentic Community Engagement and Expert Value Delivery*
+*Reddit Strategy for Azure Tide Wine CO - Building Wine Authority Through Authentic Community Engagement and Expert Value Delivery*
