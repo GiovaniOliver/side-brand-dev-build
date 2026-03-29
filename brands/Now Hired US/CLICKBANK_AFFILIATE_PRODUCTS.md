@@ -1,105 +1,67 @@
 # ClickBank Affiliate Opportunities - Job/Career Niche
-*Last Updated: September 2025*
+*Last Updated: March 27, 2026 — CLEANED & CORRECTED*
 *ClickBank Nickname: nowhiredus*
 
-## 🔥 NEW TOP PERFORMER - LIVE CHAT JOBS
+> ⚠️ **CHANGE LOG:** Previous version (Sept 2025) included adult content products (Jack's BJ Lessons, The Blow Job Bible, Blow by Blow, Stroke by Stroke). These have been permanently removed. Now Hired US is a career/employment brand — all affiliate products must be career, work-from-home, education, or professional development related ONLY.
 
-### ⭐ Live Chat Jobs - #1 PRIORITY PRODUCT
+---
+
+## AFFILIATE STRATEGY OVERVIEW
+
+Now Hired US promotes products that help people find jobs, develop career skills, and work from home. Every product on this list must pass the brand alignment test:
+
+> **"Would a job seeker or employer trust NowHiredUS.com if they saw us promoting this?"**
+
+If the answer is no → remove it.
+
+---
+
+## 📊 PRODUCT RANKING BY GRAVITY
+
+### Tier 1 - Proven Career/Remote Work Winners
+
+| # | Product | Vendor ID | Gravity | Commission | Notes |
+|---|---------|-----------|---------|------------|-------|
+| 1 | **Live Chat Jobs** | SOCIALSREP | 86.17 | $7.32/sale | Remote customer service — perfect fit |
+| 2 | **Paid Online Writing Jobs** | EASYWRITER | 52.13 | $5.88/sale | Remote writing career |
+| 3 | **WriteAppReviews.com** | WRITEAPPS | 44.45 | $7.46/sale | Remote review writing gig |
+| 4 | **Virtual Online Assistant** | CLKEARNERS | 9.06 | $11.38/sale | Virtual assistant training |
+| 5 | **Certified A.I. Jobs** | DDOFFERS | 1.45 | $28.90/sale | AI career training — HIGH relevance |
+| 6 | **UGC Video Creator** | UGCACADEMY | 0.57 | $26.04/sale | Creator economy jobs |
+| 7 | **Get Paid to Drive** | MEDCOURIER | 3.34 | — | Gig economy / delivery jobs |
+| 8 | **Photo Jobs** | GAMEBANK97 | 4.73 | — | Remote photography work |
+
+### Additional Products to Research
+- LinkedIn resume and profile courses (ClickBank or ShareASale)
+- Interview coaching programs
+- Resume writing services with affiliate programs
+- Microsoft Office / Google Workspace certification prep
+- Project management certifications (PMP, Agile)
+
+---
+
+## 🔥 TOP PRIORITY: LIVE CHAT JOBS
+
+### ⭐ Live Chat Jobs — #1 Priority
 - **Vendor ID**: SOCIALSREP
-- **Overall Rank**: #37 (TOP 50 PRODUCT!)
+- **Gravity**: 86.17 (highest in niche)
 - **Commission**: $7.32/sale ($2.87 initial + $4.45 rebills)
-- **Commission Rate**: 75% on everything!
-- **EPC**: $0.01
-- **Conversion**: 0.33%
-- **Gravity**: 86.17 (HIGHEST GRAVITY!)
-- **Product Type**: Live chat support jobs
-- **Special Features**: 
-  - $1 trial offer (easy entry)
-  - Unlimited rebills
-  - Optimized upsell flow
-  - In-house affiliate management team
-  - Custom landing pages available
-  - High converting emails provided
-- **Target Audience**: Remote workers, customer service, work-from-home
-- **Affiliate Link**: `https://e7b99kvnu6u3qhvqp3xwnmtb3u.hop.clickbank.net/?&traffic_source=blog&traffic_type=blog&campaign=Nowhiredusbrand&creative=articles-banners-and-videos&ad=A&extclid=nowhiredus`
-- **Notes**: BEST PERFORMER - 86.17 gravity! Contact vendor for commission bump!
+- **Commission Rate**: 75%
+- **Product Type**: Live chat support job training/placement
+- **Why It Fits**: Remote customer service is one of the most searched job categories on NowHiredUS
+- **Affiliate Link**: `https://socialsrep.nowhiredus.hop.clickbank.net`
+
+### ⭐ Certified A.I. Jobs — High Value Commission
+- **Vendor ID**: DDOFFERS
+- **Gravity**: 1.45 (low competition)
+- **Commission**: $28.90/sale
+- **Product Type**: AI career skills training
+- **Why It Fits**: AI jobs are the fastest growing segment in 2026 — directly aligned with Now Hired US audience
 
 ---
 
-## 📊 UPDATED PRODUCT RANKING BY GRAVITY
+## 📈 AFFILIATE LINKS
 
-### Tier 1 - Proven Winners (Gravity 40+)
-1. **Live Chat Jobs** (SOCIALSREP) - Gravity: 86.17 ⭐ NEW #1
-2. **Paid Online Writing Jobs** (EASYWRITER) - Gravity: 52.13
-3. **WriteAppReviews.com** (WRITEAPPS) - Gravity: 44.45
-
-### Tier 2 - Solid Performers (Gravity 5-40)
-4. **Virtual Online Assistant** (CLKEARNERS) - Gravity: 9.06
-5. **WoodProfits** (WOODPROFIT) - Gravity: 7.16
-6. **Jack's BJ Lessons** (MIKIMAUS) - Gravity: 6.24
-
-### Tier 3 - Emerging Products (Gravity 1-5)
-7. **Photo Jobs** (GAMEBANK97) - Gravity: 4.73
-8. **FREE Traffic System** (EMPIREC) - Gravity: 4.39
-9. **Get Paid to Drive** (MEDCOURIER) - Gravity: 3.34
-10. **The Blow Job Bible** (JOCOSGRA) - Gravity: 2.39
-11. **Blow by Blow** (BLOWBYBLOW) - Gravity: 1.97
-12. **Certified A.I. Jobs** (DDOFFERS) - Gravity: 1.45
-13. **Stroke by Stroke** (HANDJOB) - Gravity: 1.36
-
-### Tier 4 - New/Untested (Gravity <1)
-14. **UGC Video Creator** (UGCACADEMY) - Gravity: 0.57
-15. **Work At Home Crafts** (324253) - Gravity: 0.57
-16. **Flight Attendant** (GETSKYJOBS) - Gravity: Not provided
-
----
-
-## 🎯 LIVE CHAT JOBS - PROMOTION STRATEGY
-
-### Landing Page URLs with Tracking
-```
-Blog Post: 
-https://e7b99kvnu6u3qhvqp3xwnmtb3u.hop.clickbank.net/?traffic_source=blog&campaign=Nowhiredusbrand
-
-Email Campaign:
-https://e7b99kvnu6u3qhvqp3xwnmtb3u.hop.clickbank.net/?traffic_source=email&campaign=Nowhiredusbrand
-
-Social Media:
-https://e7b99kvnu6u3qhvqp3xwnmtb3u.hop.clickbank.net/?traffic_source=social&campaign=Nowhiredusbrand
-
-Paid Ads:
-https://e7b99kvnu6u3qhvqp3xwnmtb3u.hop.clickbank.net/?traffic_source=paid&campaign=Nowhiredusbrand
-```
-
-### Content Ideas for Live Chat Jobs
-
-#### Blog Posts (Priority Order)
-1. "Get Paid $25-35/Hour for Live Chat Support - No Phone Required"
-2. "Live Chat Jobs: Work from Anywhere with Just Your Laptop"
-3. "Why Companies are Desperately Hiring Chat Support (And Paying Well)"
-4. "From Zero to $3,000/Month with Live Chat Jobs"
-5. "Live Chat vs Phone Support: Why Chat Pays Better"
-
-#### Email Subject Lines
-- "🔥 $1 Trial: Start Your Chat Support Career Today"
-- "Companies Hiring NOW for $30/hr Chat Jobs (Remote)"
-- "No Experience? No Problem! Chat Jobs Starting at $25/hr"
-- "Your Laptop = Your New $3K/Month Office"
-- "Last Chance: Live Chat Positions Filling Fast"
-
-#### Social Media Hooks
-- "POV: You're making $30/hour from your couch doing live chat"
-- "Red flag: Your job requires commuting. Green flag: Live chat from home"
-- "Day in my life as a $35/hour chat support agent (spoiler: it's chill)"
-- "They said online jobs don't pay well... my $4K chat paycheck disagrees"
-
----
-
-## 📈 STANDARD AFFILIATE LINKS (All Products)
-
-### Format: https://[VENDOR_ID].nowhiredus.hop.clickbank.net
-
-#### TOP PRIORITY LINKS
 ```
 Live Chat Jobs:
 https://socialsrep.nowhiredus.hop.clickbank.net
@@ -110,10 +72,10 @@ https://easywriter.nowhiredus.hop.clickbank.net
 WriteAppReviews:
 https://writeapps.nowhiredus.hop.clickbank.net
 
-Virtual Assistant Jobs:
+Virtual Assistant:
 https://clkearners.nowhiredus.hop.clickbank.net
 
-AI Jobs 2025:
+AI Jobs:
 https://ddoffers.nowhiredus.hop.clickbank.net
 
 UGC Video Creator:
@@ -124,14 +86,11 @@ https://medcourier.nowhiredus.hop.clickbank.net
 
 Photo Jobs:
 https://gamebank97.nowhiredus.hop.clickbank.net
-
-WoodProfits:
-https://woodprofit.nowhiredus.hop.clickbank.net
 ```
 
 ---
 
-## 📊 PERFORMANCE TRACKING DASHBOARD
+## 📊 PERFORMANCE TRACKING
 
 | Product | Gravity | $/Sale | Clicks | Sales | Conv% | Revenue | Status |
 |---------|---------|--------|--------|-------|-------|---------|---------|
@@ -139,68 +98,35 @@ https://woodprofit.nowhiredus.hop.clickbank.net
 | Paid Online Writing | 52.13 | $5.88 | 0 | 0 | 0% | $0 | 🟢 Active |
 | WriteAppReviews | 44.45 | $7.46 | 0 | 0 | 0% | $0 | 🟢 Active |
 | Virtual Assistant | 9.06 | $11.38 | 0 | 0 | 0% | $0 | 🟡 Test |
-| AI Jobs | 1.45 | $28.90 | 0 | 0 | 0% | $0 | 🟡 Test |
-| UGC Creator | 0.57 | $26.04 | 0 | 0 | 0% | $0 | 🔴 Hold |
+| AI Jobs | 1.45 | $28.90 | 0 | 0 | 0% | $0 | 🟢 PRIORITY |
+| UGC Creator | 0.57 | $26.04 | 0 | 0 | 0% | $0 | 🟡 Test |
 
 ---
 
-## 🚀 IMMEDIATE ACTION PLAN
+## CONTENT IDEAS
 
-### Week 1: Launch Live Chat Jobs
-**Day 1-2:**
-- [ ] Contact SOCIALSREP team for commission bump
-- [ ] Request custom landing pages
-- [ ] Get high-converting email swipes
+### Blog Posts
+1. "Get Paid $25–35/Hour for Live Chat Support (No Phone Required)"
+2. "The Best AI Jobs You Can Get Without a CS Degree in 2026"
+3. "How to Become a Virtual Assistant: Complete Beginner Guide"
+4. "Remote Writing Jobs: Get Paid to Write from Home"
+5. "UGC Creator Jobs: How Brands Pay You to Make Content"
 
-**Day 3-4:**
-- [ ] Write review post: "Live Chat Jobs Review: Legit or Scam?"
-- [ ] Create comparison: "Live Chat Jobs vs Traditional Customer Service"
-- [ ] Set up email automation
-
-**Day 5-7:**
-- [ ] Launch social media campaign
-- [ ] Create YouTube video review
-- [ ] A/B test different angles
-
-### Success Metrics
-- Target: 100 clicks/day by Day 7
-- Goal: 1 sale/day minimum (0.33% conversion)
-- Revenue Target: $200+ first week
+### Email Subject Lines
+- "🔥 $1 Trial: Start Your Chat Support Career Today"
+- "AI Jobs Hiring Now — No Tech Degree Required"
+- "Your Laptop = Your New Office (And Your Paycheck)"
 
 ---
 
-## 💡 PRO TIPS FOR LIVE CHAT JOBS
+## ⚠️ BRAND ALIGNMENT RULES
 
-### What Makes It Convert
-1. **$1 Trial**: Low barrier to entry
-2. **No Phone Required**: Appeals to introverts
-3. **Immediate Start**: No long application process
-4. **Work from Anywhere**: Location independence
-5. **No Experience Needed**: Wide audience appeal
-
-### Best Traffic Sources
-1. **Blog SEO**: "live chat jobs," "online chat support jobs"
-2. **Social Media**: LinkedIn, Facebook job groups
-3. **Email**: Warm list converts best
-4. **YouTube**: Review and tutorial videos
-5. **Forums**: Reddit r/WorkOnline, job boards
-
-### Avoid These Mistakes
-- Don't promise specific dollar amounts (use ranges)
-- Don't guarantee employment (it's a job board/training)
-- Don't spam - quality content converts better
-- Don't ignore mobile optimization (50%+ traffic is mobile)
+1. **No adult content** — ever. Period.
+2. **No products unrelated to career, job search, or professional development**
+3. Every promoted product must pass: "Would a job seeker trust us if we promoted this?"
+4. Always include FTC affiliate disclosure
+5. Never guarantee specific income amounts
 
 ---
 
-## 📞 VENDOR SUPPORT CONTACTS
-
-### Live Chat Jobs (SOCIALSREP)
-- **Affiliate Support**: Available
-- **Request**: Commission bumps, custom pages, email swipes
-- **Best Practice**: Introduce yourself, share traffic sources
-- **Potential**: Could get 85-90% commission with volume
-
----
-
-*Updated with Live Chat Jobs as #1 priority product based on 86.17 gravity score*
+*Updated March 27, 2026 — removed all adult content products, retained and expanded career/employment-focused product list*

@@ -12,8 +12,8 @@ side-brand-dev-build/
 ├── CLAUDE.md                          # Workspace-level AI assistant instructions
 ├── docs/                              # System-level documentation
 │   ├── AGENT_USAGE_REQUIREMENTS.md
-│   ├── Brand-Product-Service-Library/
 │   ├── MASTER_BRAND_STATUS_AND_SYSTEM.md
+│   ├── Brand-Product-Service-Library/
 │   ├── SYSTEM_RULES_AND_STRUCTURE.md
 │   ├── WORKFLOW_INSTRUCTIONS.md
 │   ├── Viral_Framework.md
