@@ -2,6 +2,17 @@
 
 This folder contains all tracking and progress monitoring for Side Brands development.
 
+## Current Audit Files
+
+- `BRAND_AUDIT_REPORT_2026-02-12.md`
+  February technical completeness audit.
+- `BRAND_BUSINESS_ALIGNMENT_REPORT_2026-02-28.md`
+  Cross-check of brand positioning and current folder alignment.
+- `BRAND_STATUS_REPORT_2026-02-28.md`
+  Portfolio status snapshot.
+- `BRAND_SUCCESS_AND_REVENUE_AUDIT_2026-03-30.md`
+  Current operating audit for revenue potential, sales workflow, partner needs, and missing monetization pieces.
+
 ---
 
 ## 📁 Folder Structure
