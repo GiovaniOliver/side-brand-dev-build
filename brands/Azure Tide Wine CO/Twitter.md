@@ -1,14 +1,14 @@
-# 🐬🍷 DolphinWine - Twitter Strategy
+# 🐬🍷 Azure Tide Wine CO - Twitter Strategy
 *Wine Expertise & Community Through Real-Time Engagement*
 
 ---
 
 ## 🐦 **TWITTER MARKETING OVERVIEW**
 
-**DolphinWine** leverages Twitter for real-time wine education, industry thought leadership, and community engagement with wine enthusiasts. Our Twitter strategy focuses on sharing expert wine insights, participating in wine conversations, and positioning DolphinWine as the accessible wine authority.
+**Azure Tide Wine CO** leverages Twitter for real-time wine education, industry thought leadership, and community engagement with wine enthusiasts. Our Twitter strategy focuses on sharing expert wine insights, participating in wine conversations, and positioning Azure Tide Wine CO as the accessible wine authority.
 
 ### **Platform Objectives**
-- 🎯 **Wine Thought Leadership**: Establish DolphinWine team as recognized wine experts
+- 🎯 **Wine Thought Leadership**: Establish Azure Tide Wine CO team as recognized wine experts
 - 💬 **Real-Time Education**: Share timely wine insights and educational content
 - 🤝 **Wine Community**: Engage with wine industry professionals and enthusiasts
 - 📈 **Brand Awareness**: Build recognition as premium yet accessible wine brand
@@ -69,4 +69,4 @@
 
 ---
 
-*Twitter Strategy for DolphinWine - Real-Time Wine Expertise and Community Engagement*
+*Twitter Strategy for Azure Tide Wine CO - Real-Time Wine Expertise and Community Engagement*

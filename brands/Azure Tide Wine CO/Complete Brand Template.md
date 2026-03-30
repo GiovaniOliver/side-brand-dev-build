@@ -1,9 +1,9 @@
-# Complete Brand Template - DolphinWine
+# Complete Brand Template - Azure Tide Wine CO
 
 ## 🎯 Brand Overview
 
 ### Brand Identity
-- **Name**: DolphinWine
+- **Name**: Azure Tide Wine CO
 - **Tagline**: "Dive Into Sophistication"
 - **Mission**: Create the world's most innovative ocean-inspired wine experience while supporting marine conservation
 - **Industry**: Premium Beverages & Marine Conservation
@@ -44,7 +44,7 @@
 - **Accent**: Wave-inspired script elements
 
 ### Logo Elements
-- Dolphin silhouette integrated with wine glass
+- Abstract tide line integrated with wine glass
 - Ocean wave patterns
 - Nautical elements
 - Premium bottle design
@@ -274,4 +274,4 @@ Features:
 
 ---
 
-*This complete brand template establishes DolphinWine as the premium ocean-inspired wine brand with purpose.*
+*This complete brand template establishes Azure Tide Wine CO as the premium ocean-inspired wine brand with purpose.*

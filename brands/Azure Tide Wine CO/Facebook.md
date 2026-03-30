@@ -129,7 +129,7 @@
 
 **Ad Creative Strategy:**
 - **Headline**: "Discover Exceptional Wines Curated Just for You"
-- **Primary Text**: "Stop guessing at wine selections. Our expert sommeliers curate monthly wine discoveries based on your taste preferences. Join 5,000+ wine lovers who trust DolphinWine for premium selections delivered to their door."
+- **Primary Text**: "Stop guessing at wine selections. Our expert sommeliers curate monthly wine discoveries based on your taste preferences. Join 5,000+ wine lovers who trust Azure Tide Wine CO for premium selections delivered to their door."
 - **Call-to-Action**: "Sign Up"
 - **Visual**: Premium wine selection with sommelier curation process
 - **Video**: Customer testimonials and sommelier selection process
@@ -248,4 +248,4 @@
 
 ---
 
-*Comprehensive Facebook Marketing Strategy for DolphinWine - Building Sophisticated Wine Community Through Premium Social Media Excellence*
+*Comprehensive Facebook Marketing Strategy for Azure Tide Wine CO - Building Sophisticated Wine Community Through Premium Social Media Excellence*

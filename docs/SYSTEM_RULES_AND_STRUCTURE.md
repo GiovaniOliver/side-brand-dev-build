@@ -2,7 +2,7 @@
 **For Claude Code Sessions in Side-Brands Directory**
 
 **Purpose:** Instructions for AI assistants working in this workspace
-**Last Updated:** November 2, 2025
+**Last Updated:** March 27, 2026
 
 ---
 
@@ -16,15 +16,15 @@ Every file has a designated location. Follow the structure below.
 
 ### Rule 3: Always Check .claude Folder First
 When starting a new session, read these files:
-1. `.claude/SYSTEM_RULES_AND_STRUCTURE.md` (this file)
-2. `.claude/AGENT_USAGE_REQUIREMENTS.md` (CRITICAL - how to use sub-agents)
-3. `.claude/MASTER_BRAND_STATUS_AND_SYSTEM.md` (brand status)
-4. `.claude/WORKFLOW_INSTRUCTIONS.md` (how to work)
-5. `.claude/Viral_Framework.md` (Village Capital framework)
+1. `docs/SYSTEM_RULES_AND_STRUCTURE.md` (this file)
+2. `docs/AGENT_USAGE_REQUIREMENTS.md` (CRITICAL - how to use sub-agents)
+3. `docs/MASTER_BRAND_STATUS_AND_SYSTEM.md` (brand status)
+4. `docs/WORKFLOW_INSTRUCTIONS.md` (how to work)
+5. `docs/Viral_Framework.md` (Village Capital framework)
 
 ### Rule 4: ALWAYS Use Sub-Agents for Tasks
 **MANDATORY:** Use the Task tool with specialized sub-agents for ALL brand development work.
-- See `.claude/AGENT_USAGE_REQUIREMENTS.md` for complete guide
+- See `docs/AGENT_USAGE_REQUIREMENTS.md` for complete guide
 - Phase 2 sub-phases (2B, 2C, 2D) MUST run in parallel using agents
 - Every major feature should be built by a specialized agent
 - DO NOT manually code features - use agents!
@@ -144,7 +144,7 @@ Side-Brands/
 ---
 
 #### Knowledge Base Updates
-**Location:** `.claude/`
+**Location:** `docs/`
 **Examples:**
 - System updates
 - New workflow instructions
@@ -165,10 +165,10 @@ Side-Brands/
 
 ### DO:
 - ✅ Use `_Working-Docs/` for all temporary work
-- ✅ Check `.claude/` folder on session start
+- ✅ Check `docs/` folder on session start
 - ✅ Follow the folder structure
 - ✅ Clean up working docs when done
-- ✅ Update `.claude/MASTER_BRAND_STATUS_AND_SYSTEM.md` when brand status changes
+- ✅ Update `docs/MASTER_BRAND_STATUS_AND_SYSTEM.md` when brand status changes
 
 ---
 
@@ -179,9 +179,9 @@ When you start a new Claude Code session in Side-Brands:
 ### Step 1: Read Knowledge Base (1-2 min)
 ```bash
 # Read these files in order:
-1. .claude/SYSTEM_RULES_AND_STRUCTURE.md       # Folder rules (this file)
-2. .claude/MASTER_BRAND_STATUS_AND_SYSTEM.md   # Brand status
-3. .claude/WORKFLOW_INSTRUCTIONS.md            # How to work
+1. docs/SYSTEM_RULES_AND_STRUCTURE.md       # Folder rules (this file)
+2. docs/MASTER_BRAND_STATUS_AND_SYSTEM.md   # Brand status
+3. docs/WORKFLOW_INSTRUCTIONS.md            # How to work
 ```
 
 ### Step 2: Understand User Request
@@ -206,7 +206,7 @@ cd Brand-Progress-Tracking/Active-Brands/[Brand Name]/
 ### Step 5: Clean Up
 - Move final deliverables to proper locations
 - Archive or delete temp files from `_Working-Docs/`
-- Update `.claude/` knowledge base if needed
+- Update `docs/` knowledge base if needed
 
 ---
 
@@ -219,14 +219,14 @@ cd Brand-Progress-Tracking/Active-Brands/[Brand Name]/
 | Analysis/Planning docs | `_Working-Docs/` |
 | Brand-specific files | `[Brand Name]/` |
 | Progress tracking | `Brand-Progress-Tracking/Active-Brands/[Brand Name]/` |
-| System documentation | `.claude/` |
+| System documentation | `docs/` |
 | Templates | Don't create - use existing in template folder |
 
 ---
 
 ## 🔄 UPDATING THIS SYSTEM
 
-### When to Update `.claude/` Files:
+### When to Update `docs/` Files:
 
 **Update MASTER_BRAND_STATUS_AND_SYSTEM.md when:**
 - Brand completes a phase
@@ -248,29 +248,29 @@ cd Brand-Progress-Tracking/Active-Brands/[Brand Name]/
 
 ## 📊 CURRENT STATUS SUMMARY
 
-**Brands:** 18 total
-- Planning complete: ~16 brands
-- Websites in progress: 2 brands
-- Priority: Defi Baddies, Now Hired US
+**Brands:** 21 total
+- Avg completeness: 82% across portfolio
+- Websites built locally: 19 of 21 brands
+- Priority deployment: PAUSEWELL, AI Content Studio Pro, Rappers LFB, Digital Nomad Gear
 
 **Template Folder:** Being cleaned (56 redundant files to delete)
 
 **Tracking System:** Set up in `Brand-Progress-Tracking/`
 
-**Full Details:** See `.claude/MASTER_BRAND_STATUS_AND_SYSTEM.md`
+**Full Details:** See `docs/MASTER_BRAND_STATUS_AND_SYSTEM.md`
 
 ---
 
 ## 🎓 FOR CLAUDE CODE SESSIONS
 
 **You are working in a brand development system with:**
-- 18 side brands in development
+- 21 side brands in development
 - Defined workflow and structure
 - Progress tracking system
 - Clear folder organization
 
 **Your job:**
-1. Read `.claude/` files on start
+1. Read `docs/` files on start
 2. Follow folder structure rules
 3. Keep root folder clean
 4. Use `_Working-Docs/` for temp files
@@ -287,5 +287,5 @@ cd Brand-Progress-Tracking/Active-Brands/[Brand Name]/
 
 ---
 
-*Last Updated: October 2025*
+*Last Updated: March 27, 2026*
 *Maintained by: Oliver Productions*

@@ -1,14 +1,14 @@
-# 🐬🍷 DolphinWine - Startup Marketing Plan System
+# 🐬🍷 Azure Tide Wine CO - Startup Marketing Plan System
 *Premium Wine Lifestyle Marketing Strategy*
 
 ---
 
 ## 🎯 **EXECUTIVE SUMMARY**
 
-**DolphinWine** operates in the premium wine market, positioned as the sophisticated yet accessible wine lifestyle brand. Our marketing approach focuses on community building, experiential marketing, and educational content to establish DolphinWine as the premier choice for discerning consumers.
+**Azure Tide Wine CO** operates in the premium wine market, positioned as the sophisticated yet accessible wine lifestyle brand. Our marketing approach focuses on community building, experiential marketing, and educational content to establish Azure Tide Wine CO as the premier choice for discerning consumers.
 
 ### **Marketing Mission**
-To establish DolphinWine as the leading premium wine lifestyle brand by creating an inclusive community of wine enthusiasts through exceptional experiences, expert education, and curated wine selections.
+To establish Azure Tide Wine CO as the leading premium wine lifestyle brand by creating an inclusive community of wine enthusiasts through exceptional experiences, expert education, and curated wine selections.
 
 ### **Key Marketing Objectives (Year 1)**
 - 🎯 **Acquire 2,500+ Wine Club Members** with average monthly value of $125
@@ -171,4 +171,4 @@ To establish DolphinWine as the leading premium wine lifestyle brand by creating
 
 ---
 
-*Comprehensive Marketing Strategy for DolphinWine - Where Sophistication Meets Accessibility Through Premium Marketing Excellence*
+*Comprehensive Marketing Strategy for Azure Tide Wine CO - Where Sophistication Meets Accessibility Through Premium Marketing Excellence*

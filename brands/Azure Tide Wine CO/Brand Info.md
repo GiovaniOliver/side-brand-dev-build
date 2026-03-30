@@ -1,7 +1,7 @@
-# DolphinWine - Brand Info
+# Azure Tide Wine CO - Brand Info
 
 ## Overview
-**DolphinWine** is a sophisticated lifestyle and beverage brand that combines the elegance of fine wine culture with a modern, approachable aesthetic, creating premium experiences for discerning consumers.
+**Azure Tide Wine CO** is a sophisticated lifestyle and beverage brand that combines the elegance of fine wine culture with a modern, approachable aesthetic, creating premium experiences for discerning consumers.
 
 ## Brand Identity
 
@@ -55,4 +55,4 @@
 
 ---
 
-*DolphinWine: Where Sophistication Meets Accessibility*
+*Azure Tide Wine CO: Where Sophistication Meets Accessibility*
