@@ -28,7 +28,7 @@ This is the working view of which brands actually need a third-party selling, fu
 | Rappers Looking for Beats | Beat marketplace, licensing, mixing, courses | Marketplace payments, creator payouts, digital delivery | No | `brands/Rappers Looking for Beats/Affiliate_Monetization_Plan.md`, `brands/Rappers Looking for Beats/MONETIZATION_IMPLEMENTATION_GUIDE.md` | Creator marketplace |
 | AI Record Label (Trap Verse) | Beats, sync, sample packs, courses, commissions | Digital storefront, licensing ops, creator payouts | No | `brands/AI Record Label (Trap Verse)/Affiliate_Monetization_Plan.md` | Digital/music catalog |
 | AI Artist (Classical Vulgar Music Theme) | Music, licensing, courses, subscriptions, API access | Digital distribution and subscription stack | No | `brands/AI Artist (Classical Vulgar Music Theme)/Affiliate_Monetization_Plan.md` | Digital creator stack |
-| Hood Fat Albert (Rapper-Singer) | Beats, services, apparel, courses | Digital storefront, payments, POD merch | Partial | `brands/Hood Fat Albert (Rapper-Singer)/Affiliate_Monetization_Plan.md`, `brands/Hood Fat Albert (Rapper-Singer)/CLICKBANK_AFFILIATE_PRODUCTS.md` | Merch is partial; core business is music/services |
+| Lil Bot Bars | Beats, services, apparel, courses | Digital storefront, payments, POD merch | Partial | `brands/Lil Bot Bars/Affiliate_Monetization_Plan.md`, `brands/Lil Bot Bars/CLICKBANK_AFFILIATE_PRODUCTS.md` | Merch is partial; core business is music/services |
 | Bruh WTF | Entertainment, subscriptions, merch, licensing | POD merch and creator monetization tools | Partial | `brands/Bruh WTF/Affiliate_Monetization_Plan.md`, `brands/Bruh WTF/CLICKBANK_AFFILIATE_PRODUCTS.md` | Merch only once content brand is stable |
 | Is This Yo BF-GF | Comedy/relationship content and affiliate products | SaaS is removed; use digital delivery and sponsorships | No | `brands/Is This Yo BF-GF/Affiliate_Monetization_Plan.md` | Entertainment brand only |
 
@@ -46,4 +46,4 @@ Not every brand should be assigned a white-label vendor.
 
 - White-label or private-label fit: Azure Tide Wine CO, PAUSEWELL, Sustainable Beauty Box, The Work Out Six Pack Stop, parts of Digital Nomad Gear, parts of 420 Blunt Force Trauma.
 - Affiliate or marketplace fit: AI Content Studio Pro, Smart Pet Tech, Defi Baddies, Rappers Looking for Beats, Now Hiring St. Louis.
-- Service-led fit: Black Group Admin Network, Now Hired US, parts of Hood Fat Albert (Rapper-Singer).
+- Service-led fit: Black Group Admin Network, Now Hired US, parts of Lil Bot Bars.

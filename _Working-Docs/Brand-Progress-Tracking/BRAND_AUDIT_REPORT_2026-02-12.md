@@ -35,7 +35,7 @@
 |-------|---------------|
 | AI Artist (Classical Vulgar Music Theme) | Website not built (no package.json, next.config, app/src) |
 | Defi Baddies | Website nested in wrong subdirectory |
-| Hood Fat Albert (Rapper-Singer) | Missing Website/package.json |
+| Lil Bot Bars | Missing Website/package.json |
 | Mindful Gaming Zone | Missing next.config.js and tailwind.config in Website |
 | Now Hiring St. Louis | Website not built (empty shell) |
 | PAUSEWELL | Uses next.config.ts (non-standard but functional) |
@@ -63,7 +63,7 @@
 
 | # | Brand | Fix Applied | Status |
 |---|-------|-------------|--------|
-| 1 | Hood Fat Albert | Added package.json to Website/ | DONE |
+| 1 | Lil Bot Bars | Added package.json to Website/ | DONE |
 | 2 | PAUSEWELL | No fix needed (next.config.ts works fine) | OK |
 | 3 | Rappers Looking for Beats | Added SOP Template + Marketing Plan | DONE |
 | 4 | Mindful Gaming Zone | Added next.config.js, tailwind.config.ts, postcss.config.js, tsconfig.json | DONE |

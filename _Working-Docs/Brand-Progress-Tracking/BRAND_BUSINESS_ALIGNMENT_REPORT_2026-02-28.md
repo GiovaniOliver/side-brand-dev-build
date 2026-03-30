@@ -21,7 +21,7 @@ A deep-dive audit into every brand's marketing docs reveals a **systemic alignme
 | WELL ALIGNED | AI Content Studio Pro, PAUSEWELL, Digital Nomad Gear |
 | MODERATE ISSUES | Smart Pet Tech, Sustainable Beauty Box, Mindful Gaming Zone |
 | SIGNIFICANT ISSUES | Brain Bender, Rappers Looking for Beats, AI Record Label, Now Hiring STL, The Work Out Six Pack Stop |
-| SEVERE IDENTITY CRISIS | 420 Blunt Force Trauma, Azure Tide Wine CO, Bruh WTF, Black Group Admin Network, Is This Yo BF-GF, Hood Fat Albert, Now Hired US |
+| SEVERE IDENTITY CRISIS | 420 Blunt Force Trauma, Azure Tide Wine CO, Bruh WTF, Black Group Admin Network, Is This Yo BF-GF, Lil Bot Bars, Now Hired US |
 | NOT DEVELOPED | Defi Baddies (no template-format docs), Structured Debate Rooms (empty) |
 
 ---
@@ -630,9 +630,9 @@ These were **never reconciled** into a single source of truth. Each document was
 
 1. **Designate one canonical document per brand** as the single source of truth (recommend the Brand Info + Affiliate Monetization Plan as the realistic foundation)
 2. **Reconcile the Complete Brand Template** to match -- or clearly label it as "Phase 2/3 Scale Vision" separate from Phase 1 launch plan
-3. **Fix the 6 identity crisis brands** (420 BFT, Azure Tide Wine CO, Is This Yo BF-GF, Now Hired US, Hood Fat Albert, Black Group Admin) -- each needs a decision on which business model to pursue
+3. **Fix the 6 identity crisis brands** (420 BFT, Azure Tide Wine CO, Is This Yo BF-GF, Now Hired US, Lil Bot Bars, Black Group Admin) -- each needs a decision on which business model to pursue
 4. **Remove off-brand ClickBank products** from Now Hired US (adult content) and Work Out Six Pack Stop (dental/prostate supplements)
-5. **Complete Hood Fat Albert Brand Foundation** (currently empty placeholders)
+5. **Complete Lil Bot Bars Brand Foundation** (currently being aligned to the renamed artist identity)
 6. **Migrate Defi Baddies** to standard template format
 7. **Build Structured Debate Rooms** from scratch
 

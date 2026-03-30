@@ -1,4 +1,4 @@
-# Hood Fat Albert (Rapper-Singer) - Social Media Strategy
+# Lil Bot Bars (Rapper-Singer) - Social Media Strategy
 
 ## Social Media Overview
 
@@ -81,7 +81,7 @@
 - Encourage user-generated content with song lyrics and challenges
 - Cross-promote original music through snippet previews
 
-### YouTube (Hood Fat Albert)
+### YouTube (Lil Bot Bars)
 **Target**: 250K subscribers with music video focus
 **Focus**: Long-form content and music video distribution
 
@@ -315,4 +315,4 @@
 
 ---
 
-*Hood Fat Albert: Authentic Bars, Soulful Melodies*
+*Lil Bot Bars: Authentic Bars, Soulful Melodies*

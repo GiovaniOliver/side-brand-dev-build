@@ -1,4 +1,4 @@
-# Hood Fat Albert (Rapper-Singer) - Content Strategy & Calendar
+# Lil Bot Bars (Rapper-Singer) - Content Strategy & Calendar
 
 ## Content Strategy Overview
 
@@ -362,4 +362,4 @@
 
 ---
 
-*Hood Fat Albert: Authentic Bars, Soulful Melodies*
+*Lil Bot Bars: Authentic Bars, Soulful Melodies*

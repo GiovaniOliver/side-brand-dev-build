@@ -1,4 +1,4 @@
-# Brand Foundation — Hood Fat Albert (Rapper-Singer)
+# Brand Foundation — Lil Bot Bars (Rapper-Singer)
 *Last Updated: March 27, 2026 — Completed from placeholder*
 
 ---
@@ -11,7 +11,7 @@ To represent authentic urban culture through versatile musical expression — co
 
 ## Vision Statement
 
-To become a respected independent voice in hip-hop culture known for lyrical authenticity and melodic versatility — an artist who proves you don't have to choose between bars and melody, between street credibility and mainstream appeal. Hood Fat Albert builds a lasting career on real talent, not industry formulas.
+To become a respected independent voice in hip-hop culture known for lyrical authenticity and melodic versatility — an artist who proves you don't have to choose between bars and melody, between street credibility and mainstream appeal. Lil Bot Bars builds a lasting career on real talent, not industry formulas.
 
 ---
 
@@ -23,7 +23,7 @@ To become a respected independent voice in hip-hop culture known for lyrical aut
 
 ## Brand Story
 
-Hood Fat Albert is the artist who does both — raps with conviction and sings with soul. The name is deliberate: it's self-aware, a little irreverent, and completely unapologetic. In a genre where image is currency, Hood Fat Albert invests in craft.
+Lil Bot Bars is the artist who does both — raps with conviction and sings with soul. The name is deliberate: it's self-aware, a little irreverent, and completely unapologetic. In a genre where image is currency, Lil Bot Bars invests in craft.
 
 The music sits at the intersection of street-credible rap and melodic R&B — conscious enough to have something to say, raw enough to mean it. Lyrical themes pull from real urban experience: hustle, struggle, community, identity, and the kind of growth that only comes through adversity.
 
@@ -58,7 +58,7 @@ This isn't a manufactured persona. It's a platform for authentic storytelling bu
 
 ## Unique Value Proposition
 
-Hood Fat Albert is the only artist who seamlessly blends street-credible rap with soulful singing, using both skills in the same project to tell authentic urban stories — appealing to listeners who want more than a one-dimensional artist.
+Lil Bot Bars is the only artist who seamlessly blends street-credible rap with soulful singing, using both skills in the same project to tell authentic urban stories — appealing to listeners who want more than a one-dimensional artist.
 
 ---
 
@@ -72,7 +72,7 @@ Hood Fat Albert is the only artist who seamlessly blends street-credible rap wit
 
 ## Phase 1 Business Focus
 
-Phase 1 builds the Hood Fat Albert brand as a **content and education platform** built around the artist persona:
+Phase 1 builds the Lil Bot Bars brand as a **content and education platform** built around the artist persona:
 - Beat sales and production services (primary revenue)
 - Music production courses and tutorials (secondary)
 - Affiliate partnerships for music production tools
@@ -82,5 +82,5 @@ Phase 2 scales into streaming revenue, live performances, and brand partnerships
 
 ---
 
-*Hood Fat Albert — Authentic Bars. Soulful Melodies.*
+*Lil Bot Bars — Authentic Bars. Soulful Melodies.*
 *Brand Foundation completed March 27, 2026*

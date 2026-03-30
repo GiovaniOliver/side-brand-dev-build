@@ -1,12 +1,12 @@
-# Facebook Strategy - Hood Fat Albert
+# Facebook Strategy - Lil Bot Bars
 
 ## Page Setup
-**Page Name**: Hood Fat Albert  
-**Username**: @hoodfatalbert  
+**Page Name**: Lil Bot Bars  
+**Username**: @lilbotbars  
 **Category**: Musician/Band  
 **Description**:
 ```
-Hood Fat Albert brings authentic street music with a message. From the hood to the world, spreading big energy and bigger dreams through hip-hop that inspires and entertains.
+Lil Bot Bars brings authentic street music with a message. From the hood to the world, spreading big energy and bigger dreams through hip-hop that inspires and entertains.
 ```
 
 ## Content Strategy
@@ -44,7 +44,7 @@ Hood Fat Albert brings authentic street music with a message. From the hood to t
 
 ## Facebook Groups
 
-### Fan Group: "Hood Fat Albert Family"
+### Fan Group: "Lil Bot Bars Family"
 **Target**: 10K+ members Year 1
 
 ### Group Features
@@ -112,4 +112,4 @@ Hood Fat Albert brings authentic street music with a message. From the hood to t
 
 ---
 
-*Facebook serves as the community hub and event platform for Hood Fat Albert.*
+*Facebook serves as the community hub and event platform for Lil Bot Bars.*

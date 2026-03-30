@@ -1,11 +1,11 @@
-# Reddit Strategy - Hood Fat Albert
+# Reddit Strategy - Lil Bot Bars
 
 ## Profile Setup
 **Username**: HoodFatAlbert_Official  
-**Display Name**: Hood Fat Albert  
+**Display Name**: Lil Bot Bars  
 **Bio**:
 ```
-Official Hood Fat Albert account. Real street music with a message. Here to connect with fans and share the journey. Always keeping it 100.
+Official Lil Bot Bars account. Real street music with a message. Here to connect with fans and share the journey. Always keeping it 100.
 ```
 
 ## Target Subreddits
@@ -148,4 +148,4 @@ Official Hood Fat Albert account. Real street music with a message. Here to conn
 
 ---
 
-*Reddit serves as the authentic community engagement and grassroots platform for Hood Fat Albert.*
+*Reddit serves as the authentic community engagement and grassroots platform for Lil Bot Bars.*

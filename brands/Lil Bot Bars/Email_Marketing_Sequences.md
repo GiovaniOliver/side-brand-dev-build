@@ -1,4 +1,4 @@
-# Hood Fat Albert (Rapper-Singer) - Email Marketing Sequences
+# Lil Bot Bars (Rapper-Singer) - Email Marketing Sequences
 
 ## Email Marketing Overview
 
@@ -51,7 +51,7 @@
 **Subject**: "Welcome to Albert's Army! 🎤 (Your exclusive track inside)"
 **Sent**: Immediately upon signup
 **Content**:
-- Personal welcome from Hood Fat Albert
+- Personal welcome from Lil Bot Bars
 - Immediate delivery of exclusive freestyle track
 - Introduction to what Army members can expect
 - Social media follow encouragement with exclusive content previews
@@ -148,7 +148,7 @@
 - "Albert's Army: [Month] edition with exclusive content"
 
 **Content Sections**:
-1. **Personal Letter**: Direct message from Hood Fat Albert
+1. **Personal Letter**: Direct message from Lil Bot Bars
 2. **New Music Spotlight**: Latest releases and upcoming drops
 3. **Behind-the-Scenes**: Studio sessions and creative process
 4. **Community Highlights**: Fan features and user-generated content
@@ -247,7 +247,7 @@
 - Artist commentary and song breakdown videos
 
 **Educational Content Sales**:
-- "Rap Mastery with Hood Fat Albert" course series
+- "Rap Mastery with Lil Bot Bars" course series
 - "Singing Techniques for Hip-Hop Artists" vocal training
 - "Independent Artist Success Blueprint" business guide
 - "Studio Setup and Production Basics" technical guide
@@ -262,7 +262,7 @@
 - **CTA**: Follow collaborating artist and share excitement
 
 **Email 2: Collaboration Release**
-- **Subject**: "The [Artist Name] x Hood Fat Albert track is HERE"
+- **Subject**: "The [Artist Name] x Lil Bot Bars track is HERE"
 - **Content**: Full collaboration release, creative process story
 - **CTA**: Stream, share, and support both artists
 
@@ -480,4 +480,4 @@
 
 ---
 
-*Hood Fat Albert: Authentic Bars, Soulful Melodies*
+*Lil Bot Bars: Authentic Bars, Soulful Melodies*

@@ -1,7 +1,7 @@
-# YouTube Strategy - Hood Fat Albert
+# YouTube Strategy - Lil Bot Bars
 
 ## Channel Overview
-**Channel Name**: Hood Fat Albert  
+**Channel Name**: Lil Bot Bars  
 **Handle**: @HoodFatAlbert  
 **Tagline**: "Big Energy, Bigger Dreams 🎤🔥"  
 **Category**: Music  
@@ -71,8 +71,8 @@
 ## SEO Optimization
 
 ### Title Formulas
-- "Hood Fat Albert - [Song Title] (Official Video)"
-- "Hood Fat Albert Freestyles Over [Beat Name]"
+- "Lil Bot Bars - [Song Title] (Official Video)"
+- "Lil Bot Bars Freestyles Over [Beat Name]"
 - "From The Hood To The Stage - Episode [#]"
 - "Studio Session: Making [Song Title]"
 
@@ -114,4 +114,4 @@
 
 ---
 
-*YouTube serves as the primary music distribution and content platform for Hood Fat Albert.*
+*YouTube serves as the primary music distribution and content platform for Lil Bot Bars.*

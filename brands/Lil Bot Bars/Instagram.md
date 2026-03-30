@@ -1,8 +1,8 @@
-# Instagram Strategy - Hood Fat Albert
+# Instagram Strategy - Lil Bot Bars
 
 ## Profile Setup
-**Username**: @hoodfatalbert  
-**Display Name**: Hood Fat Albert 🎤  
+**Username**: @lilbotbars  
+**Display Name**: Lil Bot Bars 🎤  
 **Bio**:
 ```
 🎤 Real Street Music
@@ -11,7 +11,7 @@
 🎵 New Single OUT NOW
 👇 Listen/Book/Shop
 ```
-**Link**: linktr.ee/hoodfatalbert  
+**Link**: linktr.ee/lilbotbars  
 **Highlights**: Music, Videos, Tour, Merch, Community, Freestyle  
 
 ## Content Strategy
@@ -130,4 +130,4 @@
 
 ---
 
-*Instagram serves as the primary visual brand and lifestyle platform for Hood Fat Albert.*
+*Instagram serves as the primary visual brand and lifestyle platform for Lil Bot Bars.*

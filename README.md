@@ -1,6 +1,6 @@
 # SMG Side Brands - Documentation Build
 
-Documentation-only repository for all 21 SMG side brand projects. Extracted from the development workspace for portable reading (iPad, mobile, etc.). Contains brand foundations, marketing plans, SOPs, content strategies, affiliate monetization plans, and system documentation -- no website code included.
+Documentation-only repository for all 24 active SMG side brand projects. Extracted from the development workspace for portable reading (iPad, mobile, etc.). Contains brand foundations, marketing plans, SOPs, content strategies, affiliate monetization plans, revenue workflow audits, and system documentation -- no website code included.
 
 ---
 
@@ -25,24 +25,27 @@ side-brand-dev-build/
 │   ├── Archive-Project-Completion/    # Completed project archives
 │   ├── Archive-Session-Notes/         # Session note archives
 │   └── Logs/                          # Session logs
-└── brands/                            # Per-brand documentation (21 brands)
+└── brands/                            # Per-brand documentation (24 brands)
     ├── 420 Blunt Force Trauma/
     ├── AI Artist (Classical Vulgar Music Theme)/
     ├── AI Content Studio Pro/
     ├── AI Record Label (Trap Verse)/
+    ├── BeatMatch Connect/
     ├── Black Group Admin Network/
     ├── Brain Bender/
     ├── Bruh WTF/
     ├── Defi Baddies/
     ├── Digital Nomad Gear/
     ├── Azure Tide Wine CO/
-    ├── Hood Fat Albert (Rapper-Singer)/
+    ├── EcoFlow Living/
+    ├── Lil Bot Bars/
     ├── Is This Yo BF-GF/
     ├── Mindful Gaming Zone/
     ├── Now Hired US/
     ├── Now Hiring St. Louis/
     ├── PAUSEWELL/
     ├── Rappers Looking for Beats/
+    ├── Resume AI Feedback/
     ├── Smart Pet Tech/
     ├── Structured Debate Rooms/
     ├── Sustainable Beauty Box/
@@ -73,6 +76,6 @@ This repo intentionally excludes all code and build artifacts:
 
 ## Stats
 
-- **Total files**: 438
-- **Brands covered**: 21
+- **Total files**: 869
+- **Brands covered**: 24
 - **Generated**: 2026-02-28

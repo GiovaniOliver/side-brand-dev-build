@@ -74,7 +74,7 @@ Since entertainment/comedy products are limited on ClickBank, here's a strategic
 
 ## 🎵 MUSIC/ENTERTAINMENT CROSSOVER
 
-*(See Hood Fat Albert products - can be cross-promoted)*
+*(See Lil Bot Bars products - can be cross-promoted)*
 
 - **Pianoforall** - "Bruh WTF, this guy learned piano in 30 days"
 - **Singorama** - "From shower singer to actual singer WTF"

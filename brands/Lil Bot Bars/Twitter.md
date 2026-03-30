@@ -1,14 +1,14 @@
-# Twitter Strategy - Hood Fat Albert
+# Twitter Strategy - Lil Bot Bars
 
 ## Profile Setup
 **Username**: @HoodFatAlbert  
-**Display Name**: Hood Fat Albert 🎤  
+**Display Name**: Lil Bot Bars 🎤  
 **Bio**:
 ```
-Real Street Music 🎵 | From The Hood To The World 🌍 | Big Energy, Bigger Dreams 💫 | New Single OUT NOW 🔥 | Book/Features: hoodfatalbert@email.com
+Real Street Music 🎵 | From The Hood To The World 🌍 | Big Energy, Bigger Dreams 💫 | New Single OUT NOW 🔥 | Book/Features: lilbotbars@email.com
 ```
 **Location**: The Hood  
-**Website**: hoodfatalbert.com  
+**Website**: lilbotbars.com  
 
 ## Content Strategy
 
@@ -111,4 +111,4 @@ Let's run it up! 🏃‍♂️
 
 ---
 
-*Twitter serves as the real-time engagement and conversation platform for Hood Fat Albert.*
+*Twitter serves as the real-time engagement and conversation platform for Lil Bot Bars.*

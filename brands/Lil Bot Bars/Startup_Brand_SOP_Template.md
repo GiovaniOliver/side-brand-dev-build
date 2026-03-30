@@ -1,9 +1,9 @@
-# Hood Fat Albert (Rapper-Singer) - Startup Brand SOP Template
+# Lil Bot Bars (Rapper-Singer) - Startup Brand SOP Template
 
 ## Standard Operating Procedures Overview
 
 ### SOP Mission
-"To establish systematic, repeatable processes that ensure consistent quality, artistic authenticity, and professional growth across all Hood Fat Albert music career operations while maintaining genuine fan connections and industry credibility."
+"To establish systematic, repeatable processes that ensure consistent quality, artistic authenticity, and professional growth across all Lil Bot Bars music career operations while maintaining genuine fan connections and industry credibility."
 
 ### Primary SOP Goals
 1. **Musical Excellence**: Maintain high standards in all creative and performance activities
@@ -357,7 +357,7 @@
 
 ### Team Structure and Responsibilities
 **Core Team Roles and Expectations**:
-1. **Artist (Hood Fat Albert)**:
+1. **Artist (Lil Bot Bars)**:
    - Creative direction and artistic vision leadership
    - Music creation and performance excellence
    - Fan interaction and community engagement
@@ -478,4 +478,4 @@
 
 ---
 
-*Hood Fat Albert: Authentic Bars, Soulful Melodies*
+*Lil Bot Bars: Authentic Bars, Soulful Melodies*

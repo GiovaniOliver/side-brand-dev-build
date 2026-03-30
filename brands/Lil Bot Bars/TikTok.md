@@ -1,8 +1,8 @@
-# TikTok Strategy - Hood Fat Albert
+# TikTok Strategy - Lil Bot Bars
 
 ## Profile Setup
-**Username**: @hoodfatalbert  
-**Display Name**: Hood Fat Albert  
+**Username**: @lilbotbars  
+**Display Name**: Lil Bot Bars  
 **Bio**:
 ```
 🎤 Real Street Music
@@ -10,7 +10,7 @@
 📍 From The Hood
 🎵 New Music Below
 ```
-**Link**: linktr.ee/hoodfatalbert  
+**Link**: linktr.ee/lilbotbars  
 
 ## Content Strategy
 
@@ -145,4 +145,4 @@ Text: Song title, release date
 
 ---
 
-*TikTok serves as the viral growth and youth market platform for Hood Fat Albert.*
+*TikTok serves as the viral growth and youth market platform for Lil Bot Bars.*

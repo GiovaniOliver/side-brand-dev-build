@@ -3,7 +3,7 @@
 
 ## Overview
 
-Documentation workspace for all 21 SMG side brand projects. Contains brand foundations, marketing plans, SOPs, affiliate strategies, and system documentation. No website code — docs only.
+Documentation workspace for all 24 active SMG side brand projects. Contains brand foundations, marketing plans, SOPs, affiliate strategies, revenue audits, and system documentation. No website code — docs only.
 
 ## System Documentation
 
@@ -35,13 +35,13 @@ This workspace has custom slash commands in `.claude/commands/`:
 
 ## Brand Portfolio
 
-**21 brands** in `brands/` folder. See `docs/MASTER_BRAND_STATUS_AND_SYSTEM.md` for full status.
+**24 active projects** in `brands/` plus audit docs. See `docs/MASTER_BRAND_STATUS_AND_SYSTEM.md` and the revenue library for full status.
 
 ### Critical Issues (Resolve Before Launch)
 - **Now Hired US**: ClickBank catalog contains adult content — must be removed
 - **The Work Out Six Pack Stop**: ClickBank list has dental/prostate supplements — replace with fitness-only
 - **Is This Yo BF-GF**: Affiliate Plan describes a surveillance/cheating detection SaaS — rewrite as entertainment brand
-- **Hood Fat Albert**: Brand Foundation document is empty placeholders — must be completed
+- **Lil Bot Bars**: renamed artist brand must stay aligned across docs, offers, and supporting revenue files
 
 ### Deployment Priority
 1. PAUSEWELL (95% complete, well-aligned)

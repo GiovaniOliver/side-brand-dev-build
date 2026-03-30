@@ -28,7 +28,7 @@ This is the quick review sheet for what each brand is selling now or planning to
 | Rappers Looking for Beats | Beat sales, licensing, mixing, courses, creator marketplace offers | Digital delivery, licensing workflows, creator payouts | `brands/Rappers Looking for Beats/Affiliate_Monetization_Plan.md`, `brands/Rappers Looking for Beats/MONETIZATION_IMPLEMENTATION_GUIDE.md` |
 | AI Record Label (Trap Verse) | Beats, sample packs, sync licensing, courses, commissions | Digital storefront, licensing ops, payouts | `brands/AI Record Label (Trap Verse)/Affiliate_Monetization_Plan.md` |
 | AI Artist (Classical Vulgar Music Theme) | Music releases, licensing, subscriptions, courses, API-related offers | Digital distribution and subscription stack | `brands/AI Artist (Classical Vulgar Music Theme)/Affiliate_Monetization_Plan.md` |
-| Hood Fat Albert (Rapper-Singer) | Beats, services, courses, merch, creator products | Digital storefront, payments, POD merch | `brands/Hood Fat Albert (Rapper-Singer)/Affiliate_Monetization_Plan.md`, `brands/Hood Fat Albert (Rapper-Singer)/CLICKBANK_AFFILIATE_PRODUCTS.md` |
+| Lil Bot Bars | Beats, services, courses, merch, creator products | Digital storefront, payments, POD merch | `brands/Lil Bot Bars/Affiliate_Monetization_Plan.md`, `brands/Lil Bot Bars/CLICKBANK_AFFILIATE_PRODUCTS.md` |
 | Bruh WTF | Entertainment subscriptions, merch, licensing, creator products | Creator monetization stack and POD merch | `brands/Bruh WTF/Affiliate_Monetization_Plan.md`, `brands/Bruh WTF/CLICKBANK_AFFILIATE_PRODUCTS.md` |
 | Is This Yo BF-GF | Relationship comedy content, affiliate offers, digital products | Digital delivery, sponsorships, affiliate stack | `brands/Is This Yo BF-GF/Affiliate_Monetization_Plan.md` |
 

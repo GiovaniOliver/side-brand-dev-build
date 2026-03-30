@@ -1,4 +1,4 @@
-# Hood Fat Albert (Rapper-Singer) - Sales Funnel Strategy
+# Lil Bot Bars (Rapper-Singer) - Sales Funnel Strategy
 
 ## Sales Funnel Overview
 
@@ -213,7 +213,7 @@
 
 #### Customer Onboarding
 **Welcome Experience**:
-- Personal thank you message from Hood Fat Albert
+- Personal thank you message from Lil Bot Bars
 - Community introduction and integration support
 - Product usage guides and maximization tips
 - Social media engagement encouragement
@@ -455,4 +455,4 @@
 
 ---
 
-*Hood Fat Albert: Authentic Bars, Soulful Melodies*
+*Lil Bot Bars: Authentic Bars, Soulful Melodies*

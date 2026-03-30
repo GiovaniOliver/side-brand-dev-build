@@ -1,4 +1,4 @@
-# Affiliate Monetization Plan - Hood Fat Albert
+# Affiliate Monetization Plan - Lil Bot Bars
 
 ## Revenue Model Overview
 Urban music and culture brand monetizing through music production content, merchandise, affiliate partnerships, artist services, and community empowerment initiatives.
@@ -323,4 +323,4 @@ Urban music and culture brand monetizing through music production content, merch
 
 ---
 
-*Hood Fat Albert: Keeping it real while keeping it profitable. From the hood, for the culture, building generational wealth through music.*
+*Lil Bot Bars: Keeping it real while keeping it profitable. From the hood, for the culture, building generational wealth through music.*

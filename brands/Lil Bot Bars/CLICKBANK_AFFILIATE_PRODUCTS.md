@@ -51,7 +51,7 @@
   - Proven track record
 - **Target Audience**: Aspiring singers, vocalists, rappers wanting to improve singing, artist development
 - **Affiliate Link**: `https://singorama.[YOUR_NICKNAME].hop.clickbank.net`
-- **Notes**: GREAT FOR RAPPER-SINGER combo! Hood Fat Albert can promote to hip-hop artists adding singing
+- **Notes**: GREAT FOR RAPPER-SINGER combo! Lil Bot Bars can promote to hip-hop artists adding singing
 
 ---
 
@@ -175,7 +175,7 @@ https://pettsoft.[YOUR_NICKNAME].hop.clickbank.net
 - [ ] Download promotional materials from vendors
 
 **Day 3-4:**
-- [ ] Write: "How Hood Fat Albert Learned Piano to Produce His Own Beats"
+- [ ] Write: "How Lil Bot Bars Learned Piano to Produce His Own Beats"
 - [ ] Create: "Rapper to Producer: Why Every MC Should Learn Piano"
 - [ ] Develop: "Singing Rappers: How to Add Vocal Range to Your Music"
 - [ ] Design: Music education email sequence for artists
@@ -202,7 +202,7 @@ https://pettsoft.[YOUR_NICKNAME].hop.clickbank.net
 4. **Self-Improvement**: Musicians constantly want to level up
 5. **Production Angle**: Rappers/singers want to produce their own music
 
-### Best Traffic Sources for Hood Fat Albert
+### Best Traffic Sources for Lil Bot Bars
 1. **YouTube**: Music tutorials, beat-making, production tips
 2. **Instagram**: Music snippets, beat previews, studio sessions
 3. **TikTok**: Quick music tips, beat showcases, singing clips
@@ -210,14 +210,14 @@ https://pettsoft.[YOUR_NICKNAME].hop.clickbank.net
 5. **Reddit**: r/WeAreTheMusicMakers, r/makinghiphop, r/musicproduction
 6. **Facebook**: Music production groups, rapper communities
 
-### Content Ideas for Hood Fat Albert (Rapper-Singer)
+### Content Ideas for Lil Bot Bars (Rapper-Singer)
 1. "Why Every Rapper Should Learn Piano (It Changed My Game)"
 2. "From Rapper to Producer: My Music Production Journey"
 3. "Pianoforall Review: Can Rappers Really Learn Piano?"
 4. "How I Went From Rapping to Singing (Singorama Review)"
 5. "The Secret Weapon of Hip-Hop Producers: Piano Skills"
 6. "Beat Making 101: Why Piano Is Your Best Friend"
-7. "Hood Fat Albert's Guide to Self-Produced Rap Music"
+7. "Lil Bot Bars's Guide to Self-Produced Rap Music"
 8. "You Don't Need a Producer: Learn to Make Your Own Beats"
 9. "Singing Rapper? Here's How to Train Your Voice"
 10. "Guitar for Hip-Hop: Adding Live Instruments to Your Beats"
@@ -227,7 +227,7 @@ https://pettsoft.[YOUR_NICKNAME].hop.clickbank.net
 - "Rappers who can't produce vs rappers who learned piano"
 - "Me thinking I need a producer vs me after learning Pianoforall"
 - "When you realize the melody in your head needs piano"
-- "Hood Fat Albert tip: Learn piano. Make your own beats. Keep 100%."
+- "Lil Bot Bars tip: Learn piano. Make your own beats. Keep 100%."
 
 ---
 
@@ -243,7 +243,7 @@ Use these angles for your music persona:
 5. **Authenticity**: "Real musicians respect artists who know their craft"
 
 ### Email Subject Lines
-- "Hood Fat Albert: How I learned piano in 30 days"
+- "Lil Bot Bars: How I learned piano in 30 days"
 - "Rappers: Stop paying for beats. Do THIS instead."
 - "From mic to keys: Why I learned piano as a rapper"
 - "The one skill every rapper needs (it's not what you think)"
@@ -252,7 +252,7 @@ Use these angles for your music persona:
 ### YouTube Video Ideas
 - "RAPPER LEARNS PIANO IN 30 DAYS (Pianoforall Review)"
 - "How to Make Beats Without Knowing Music Theory"
-- "Why Hood Fat Albert Learned to Sing (Singorama Course Review)"
+- "Why Lil Bot Bars Learned to Sing (Singorama Course Review)"
 - "Beat Making 101: Piano Basics Every Rapper Needs"
 - "From $0 to Producer: How I Learned Music Production"
 
@@ -314,7 +314,7 @@ Use these angles for your music persona:
 
 ## 🔍 ADDITIONAL PRODUCT RESEARCH
 
-To expand Hood Fat Albert's affiliate portfolio:
+To expand Lil Bot Bars's affiliate portfolio:
 - Search ClickBank Arts & Entertainment → Music
 - Look for: beat making, music production, audio engineering
 - Target products with low refund rates

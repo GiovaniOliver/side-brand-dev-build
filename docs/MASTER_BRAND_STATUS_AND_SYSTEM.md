@@ -404,7 +404,7 @@ The **Affiliate Monetization Plan** and **Complete Brand Template** were written
 
 **Canonical Identity:**
 - **Decision Required:** Music producer/educator OR performing artist? These are completely different businesses.
-  - **Recommendation: Phase 1 = Content/education brand (beat sales, production courses, tutorials) built around the Hood Fat Albert artist persona. Phase 2 = Streaming/performance revenue. This is more realistic for launch.**
+  - **Recommendation: Phase 1 = Content/education brand (beat sales, production courses, tutorials) built around the Lil Bot Bars artist persona. Phase 2 = streaming and performance revenue. This is more realistic for launch.**
 - Audience: Ages 16–35, aspiring hip-hop producers and fans of authentic street-influenced music
 - Tagline: *(write one — Brand Foundation is empty)*
 
@@ -582,7 +582,7 @@ The **Affiliate Monetization Plan** and **Complete Brand Template** were written
 | **Defi Baddies** | **❌ BUILD NEEDED** | ❌ | — |
 | Digital Nomad Gear | ✅ | ❌ | digitalnomadgear.com |
 | Azure Tide Wine CO | ✅ | ❌ | — |
-| Hood Fat Albert | ✅ | ❌ | — |
+| Lil Bot Bars | ✅ | ❌ | — |
 | Is This Yo BF-GF | ✅ | ❌ | — |
 | Mindful Gaming Zone | ✅ | ❌ | — |
 | Now Hired US | ✅ | ❌ | nowhiredus.com |
@@ -614,7 +614,7 @@ The **Affiliate Monetization Plan** and **Complete Brand Template** were written
 9–15. Mindful Gaming Zone, Black Group Admin, Now Hiring STL, AI Artist, Work Out Six Pack Stop, Is This Yo BF-GF, Brain Bender
 
 ### Tier 4: Significant Work Needed
-16. **Hood Fat Albert** — complete Brand Foundation first
+16. **Lil Bot Bars** — complete Brand Foundation and product ladder alignment first
 17. **AI Record Label** — customize Marketing Plan
 18. **Defi Baddies** — BUILD WEBSITE, correct commission rates
 19. **Smart Pet Tech** — add visual identity, customize plans

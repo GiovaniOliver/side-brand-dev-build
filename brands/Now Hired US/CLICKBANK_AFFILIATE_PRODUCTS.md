@@ -93,7 +93,7 @@ https://gamebank97.nowhiredus.hop.clickbank.net
 ## 📊 PERFORMANCE TRACKING
 
 | Product | Gravity | $/Sale | Clicks | Sales | Conv% | Revenue | Status |
-|---------|---------|--------|--------|-------|-------|---------|---------|
+|---------|---------|--------|--------|-------|-------|---------|---------| 
 | **Live Chat Jobs** | 86.17 | $7.32 | 0 | 0 | 0% | $0 | 🟢 PRIORITY |
 | Paid Online Writing | 52.13 | $5.88 | 0 | 0 | 0% | $0 | 🟢 Active |
 | WriteAppReviews | 44.45 | $7.46 | 0 | 0 | 0% | $0 | 🟢 Active |

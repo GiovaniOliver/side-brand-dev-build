@@ -1,7 +1,7 @@
-# Hood Fat Albert (Rapper-Singer) - Brand Info
+# Lil Bot Bars (Rapper-Singer) - Brand Info
 
 ## Overview
-**Hood Fat Albert** is a rapper-singer persona that combines street authenticity with melodic versatility, creating music that represents urban culture while showcasing diverse musical talents across rap and singing.
+**Lil Bot Bars** is a rapper-singer persona that combines street authenticity with melodic versatility, creating music that represents urban culture while showcasing diverse musical talents across rap and singing.
 
 ## Artist Identity
 
@@ -78,4 +78,4 @@
 
 ---
 
-*Hood Fat Albert: Authentic Bars, Soulful Melodies*
+*Lil Bot Bars: Authentic Bars, Soulful Melodies*
