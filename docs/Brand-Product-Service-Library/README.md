@@ -18,8 +18,10 @@ Use these files in order:
    Current blog footprint and where AdSense should or should not fit.
 7. `_Working-Docs/Brand-Progress-Tracking/BRAND_SUCCESS_AND_REVENUE_AUDIT_2026-03-30.md`
    Brand-by-brand operating audit with workflow, potential, and missing revenue unlocks.
+8. `_Working-Docs/Brand-Progress-Tracking/TOP_5_90_DAY_REVENUE_EXECUTION_PLANS_2026-03-30.md`
+   Concrete 90-day launch and revenue execution sequence for the five top-priority brands.
 
 Notes:
 - I kept the source docs in their original brand folders to avoid stale duplicates.
 - This folder is the review hub, not a second copy of the system.
-- Azure Tide Wine CO references in this repo live under `brands/Azure Tide Wine CO`.
+- Azure Tide Wine CO references point to the renamed folder: `B11.) Azure-Tide-Wine-Co`.

@@ -12,6 +12,8 @@ This folder contains all tracking and progress monitoring for Side Brands develo
   Portfolio status snapshot.
 - `BRAND_SUCCESS_AND_REVENUE_AUDIT_2026-03-30.md`
   Current operating audit for revenue potential, sales workflow, partner needs, and missing monetization pieces.
+- `TOP_5_90_DAY_REVENUE_EXECUTION_PLANS_2026-03-30.md`
+  Concrete 90-day execution plan for the highest-priority revenue brands.
 
 ---
 
