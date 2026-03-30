@@ -22,7 +22,7 @@ Quick-reference scorecards for all 21 side brands. Each brand has a folder in `A
 - Website: BUILT (not deployed) | Marketing Plan: COMPLETE | Email: N/A
 - **Next Step:** brand-profile.json + CLAUDE.md + content execution
 
-### DolphinWine - 92%
+### Azure Tide Wine CO - 92%
 - Brand Identity: COMPLETE | Visual Identity: COMPLETE | Content: COMPLETE
 - Website: BUILT (not deployed) | Marketing Plan: COMPLETE | Email: PARTIAL
 - **Next Step:** brand-profile.json + email sequences
@@ -81,7 +81,7 @@ Quick-reference scorecards for all 21 side brands. Each brand has a folder in `A
 - Website: BUILT (not deployed) | Marketing Plan: COMPLETE | Email: N/A
 - **Next Step:** brand-profile.json + audience personas + content pillars
 
-### Hood Fat Albert - 83%
+### Lil Bot Bars - 83%
 - Brand Identity: PARTIAL (placeholders) | Visual Identity: PARTIAL | Content: COMPLETE
 - Website: BUILT (not deployed) | Marketing Plan: COMPLETE | Email: COMPLETE
 - **Next Step:** Complete Brand Foundation doc + brand-profile.json + visual identity

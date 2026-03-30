@@ -10,8 +10,8 @@
 
 | Tier | Count | Brands |
 |------|-------|--------|
-| EXCELLENT (90%+) | 8 | PAUSEWELL, Bruh WTF, 420 BFT, DolphinWine, Now Hired US, AI Content Studio Pro, Digital Nomad Gear, Rappers Looking for Beats |
-| GOOD (80-89%) | 9 | Mindful Gaming Zone, Black Group Admin Network, The Work Out Six Pack Stop, AI Artist, Brain Bender, Hood Fat Albert, Is This Yo BF-GF, AI Record Label, Now Hiring St. Louis |
+| EXCELLENT (90%+) | 8 | PAUSEWELL, Bruh WTF, 420 BFT, Azure Tide Wine CO, Now Hired US, AI Content Studio Pro, Digital Nomad Gear, Rappers Looking for Beats |
+| GOOD (80-89%) | 9 | Mindful Gaming Zone, Black Group Admin Network, The Work Out Six Pack Stop, AI Artist, Brain Bender, Lil Bot Bars, Is This Yo BF-GF, AI Record Label, Now Hiring St. Louis |
 | MODERATE (70-79%) | 2 | Sustainable Beauty Box, Smart Pet Tech |
 | CRITICAL GAPS | 2 | Defi Baddies (56%), Structured Debate Rooms (25%) |
 
@@ -509,8 +509,8 @@
 | Bruh WTF | YES | NO | - |
 | Defi Baddies | NO | NO | - |
 | Digital Nomad Gear | YES | NO | digitalnomadgear.com |
-| DolphinWine | YES | NO | - |
-| Hood Fat Albert | YES | NO | - |
+| Azure Tide Wine CO | YES | NO | - |
+| Lil Bot Bars | YES | NO | - |
 | Is This Yo BF-GF | YES | NO | - |
 | Mindful Gaming Zone | YES | NO | - |
 | Now Hired US | YES | NO | nowhiredus.com |
@@ -533,7 +533,7 @@
 | 1 | PAUSEWELL | 95% | Add brand-profile.json, full email sequences |
 | 2 | Bruh WTF | 94% | Add brand-profile.json |
 | 3 | 420 Blunt Force Trauma | 92% | Add brand-profile.json, CLAUDE.md |
-| 4 | DolphinWine | 92% | Add brand-profile.json, email sequences |
+| 4 | Azure Tide Wine CO | 92% | Add brand-profile.json, email sequences |
 | 5 | Now Hired US | 92% | Add brand-profile.json, visual identity, blog content |
 | 6 | AI Content Studio Pro | 91% | Add brand-profile.json |
 | 7 | Digital Nomad Gear | 91% | Add brand-profile.json, visual style guide |
@@ -544,7 +544,7 @@
 | 12 | The Work Out Six Pack Stop | 85% | Add brand-profile.json, marketing plan, visual identity |
 | 13 | AI Artist | 84% | Add brand-profile.json, CLAUDE.md, content |
 | 14 | Brain Bender | 83% | Add brand-profile.json, audience personas |
-| 15 | Hood Fat Albert | 83% | Complete Brand Foundation doc, add brand-profile.json |
+| 15 | Lil Bot Bars | 83% | Complete Brand Foundation doc, add brand-profile.json |
 | 16 | Is This Yo BF-GF | 83% | Add brand-profile.json, email sequences, visual guide |
 | 17 | AI Record Label (Trap Verse) | 82% | Add brand-profile.json, CLAUDE.md |
 | 18 | Sustainable Beauty Box | 78% | Custom marketing plan, custom SOP, brand-profile.json |
@@ -559,12 +559,12 @@
 ### IMMEDIATE (This Week)
 1. Create brand-profile.json for all 21 brands using standardized schema
 2. Build website for Defi Baddies (has exceptional content, just needs Next.js implementation)
-3. Complete Hood Fat Albert Brand Foundation doc (has placeholders)
+3. Complete Lil Bot Bars Brand Foundation doc and finalize renamed identity
 
 ### SHORT TERM (Weeks 2-4)
 4. Add CLAUDE.md to all brands missing it (17 brands)
 5. Create visual identity guides for Smart Pet Tech, Now Hiring STL, Mindful Gaming, Now Hired US, Work Out Six Pack Stop
-6. Write email marketing sequences for DolphinWine, Black Group Admin, Is This Yo BF-GF, Brain Bender
+6. Write email marketing sequences for Azure Tide Wine CO, Black Group Admin, Is This Yo BF-GF, Brain Bender
 7. Customize SOP/Marketing templates for Smart Pet Tech and Sustainable Beauty Box
 
 ### MEDIUM TERM (Month 2)
